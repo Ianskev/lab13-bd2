@@ -1,0 +1,2916 @@
+[
+    {
+        "id_producto": 1,
+        "nombre": "Smartphone Apple modelo C683",
+        "marca": "Apple",
+        "precio": 615.41,
+        "descuento": 15,
+        "categoria": "Electrónica",
+        "subcategoria": "Smartphones",
+        "stock": 61,
+        "dimensiones": {
+            "ancho": 13.8,
+            "alto": 26.9,
+            "profundidad": 9.3,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 2.81,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "Batería de larga duración",
+            "16GB de RAM",
+            "512GB SSD"
+        ],
+        "calificacion": 4.9,
+        "descripcion": "Smartphone Apple modelo C683 con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2023-07-08"
+    },
+    {
+        "id_producto": 2,
+        "nombre": "Cocin Xiaomi modelo 7B0E",
+        "marca": "Xiaomi",
+        "precio": 1648.8,
+        "descuento": 20,
+        "categoria": "Hogar",
+        "subcategoria": "Cocina",
+        "stock": 13,
+        "dimensiones": {
+            "ancho": 24.0,
+            "alto": 38.6,
+            "profundidad": 4.7,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 1.32,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "512GB SSD",
+            "Procesador Intel Core i7",
+            "Carga rápida",
+            "Pantalla táctil",
+            "Batería de larga duración"
+        ],
+        "calificacion": 4.8,
+        "descripcion": "Cocin Xiaomi modelo 7B0E con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2023-12-28"
+    },
+    {
+        "id_producto": 3,
+        "nombre": "Electrodoméstico Sony modelo 865F",
+        "marca": "Sony",
+        "precio": 118.26,
+        "descuento": 15,
+        "categoria": "Hogar",
+        "subcategoria": "Electrodomésticos",
+        "stock": 68,
+        "dimensiones": {
+            "ancho": 17.1,
+            "alto": 26.8,
+            "profundidad": 1.5,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 2.83,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "Batería de larga duración",
+            "512GB SSD",
+            "Procesador Intel Core i7",
+            "WiFi 6"
+        ],
+        "calificacion": 3.7,
+        "descripcion": "Electrodoméstico Sony modelo 865F con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2023-09-10"
+    },
+    {
+        "id_producto": 4,
+        "nombre": "Smartphone Nike modelo 1EAB",
+        "marca": "Nike",
+        "precio": 1200.95,
+        "descuento": 5,
+        "categoria": "Electrónica",
+        "subcategoria": "Smartphones",
+        "stock": 13,
+        "dimensiones": {
+            "ancho": 49.6,
+            "alto": 43.7,
+            "profundidad": 9.9,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 4.87,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "Carga rápida",
+            "WiFi 6",
+            "Batería de larga duración"
+        ],
+        "calificacion": 4.2,
+        "descripcion": "Smartphone Nike modelo 1EAB con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2023-12-04"
+    },
+    {
+        "id_producto": 5,
+        "nombre": "Decoració Lenovo modelo 0D3F",
+        "marca": "Lenovo",
+        "precio": 498.22,
+        "descuento": 0,
+        "categoria": "Hogar",
+        "subcategoria": "Decoración",
+        "stock": 81,
+        "dimensiones": {
+            "ancho": 20.8,
+            "alto": 41.9,
+            "profundidad": 2.5,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 3.41,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "16GB de RAM",
+            "Batería de larga duración",
+            "Resistente al agua",
+            "Bluetooth 5.0"
+        ],
+        "calificacion": 4.8,
+        "descripcion": "Decoració Lenovo modelo 0D3F con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2022-08-24"
+    },
+    {
+        "id_producto": 6,
+        "nombre": "Laptop Sony modelo 6F64",
+        "marca": "Sony",
+        "precio": 774.13,
+        "descuento": 5,
+        "categoria": "Electrónica",
+        "subcategoria": "Laptops",
+        "stock": 98,
+        "dimensiones": {
+            "ancho": 38.9,
+            "alto": 35.7,
+            "profundidad": 8.4,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 0.83,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "Pantalla táctil",
+            "Carga rápida",
+            "512GB SSD"
+        ],
+        "calificacion": 4.2,
+        "descripcion": "Laptop Sony modelo 6F64 con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2023-03-07"
+    },
+    {
+        "id_producto": 7,
+        "nombre": "Calzad Sony modelo 4312",
+        "marca": "Sony",
+        "precio": 272.83,
+        "descuento": 5,
+        "categoria": "Moda",
+        "subcategoria": "Calzado",
+        "stock": 55,
+        "dimensiones": {
+            "ancho": 28.2,
+            "alto": 12.1,
+            "profundidad": 2.2,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 0.82,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "Procesador Intel Core i7",
+            "Carga rápida",
+            "WiFi 6",
+            "Bluetooth 5.0"
+        ],
+        "calificacion": 4.0,
+        "descripcion": "Calzad Sony modelo 4312 con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2024-02-22"
+    },
+    {
+        "id_producto": 8,
+        "nombre": "Cocin Xiaomi modelo 2374",
+        "marca": "Xiaomi",
+        "precio": 1497.91,
+        "descuento": 5,
+        "categoria": "Hogar",
+        "subcategoria": "Cocina",
+        "stock": 21,
+        "dimensiones": {
+            "ancho": 41.2,
+            "alto": 34.4,
+            "profundidad": 2.2,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 0.43,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "Bluetooth 5.0",
+            "Pantalla 4K",
+            "Carga rápida"
+        ],
+        "calificacion": 3.8,
+        "descripcion": "Cocin Xiaomi modelo 2374 con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2022-06-14"
+    },
+    {
+        "id_producto": 9,
+        "nombre": "Laptop Apple modelo 7B14",
+        "marca": "Apple",
+        "precio": 1060.35,
+        "descuento": 15,
+        "categoria": "Electrónica",
+        "subcategoria": "Laptops",
+        "stock": 88,
+        "dimensiones": {
+            "ancho": 25.0,
+            "alto": 47.0,
+            "profundidad": 2.4,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 3.17,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "Procesador Intel Core i7",
+            "Carga rápida",
+            "Pantalla 4K"
+        ],
+        "calificacion": 4.4,
+        "descripcion": "Laptop Apple modelo 7B14 con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2022-02-02"
+    },
+    {
+        "id_producto": 10,
+        "nombre": "Rop LG modelo 2946",
+        "marca": "LG",
+        "precio": 1996.67,
+        "descuento": 0,
+        "categoria": "Moda",
+        "subcategoria": "Ropa",
+        "stock": 66,
+        "dimensiones": {
+            "ancho": 29.5,
+            "alto": 43.8,
+            "profundidad": 5.5,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 3.75,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "Carga rápida",
+            "WiFi 6",
+            "Pantalla táctil",
+            "512GB SSD",
+            "Bluetooth 5.0"
+        ],
+        "calificacion": 3.0,
+        "descripcion": "Rop LG modelo 2946 con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2022-01-06"
+    },
+    {
+        "id_producto": 11,
+        "nombre": "Cocin HP modelo 5529",
+        "marca": "HP",
+        "precio": 339.2,
+        "descuento": 20,
+        "categoria": "Hogar",
+        "subcategoria": "Cocina",
+        "stock": 15,
+        "dimensiones": {
+            "ancho": 28.5,
+            "alto": 23.0,
+            "profundidad": 5.2,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 4.08,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "WiFi 6",
+            "Carga rápida",
+            "16GB de RAM",
+            "Batería de larga duración"
+        ],
+        "calificacion": 4.5,
+        "descripcion": "Cocin HP modelo 5529 con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2024-03-12"
+    },
+    {
+        "id_producto": 12,
+        "nombre": "Electrodoméstico Apple modelo E0D9",
+        "marca": "Apple",
+        "precio": 26.06,
+        "descuento": 20,
+        "categoria": "Hogar",
+        "subcategoria": "Electrodomésticos",
+        "stock": 64,
+        "dimensiones": {
+            "ancho": 20.3,
+            "alto": 35.6,
+            "profundidad": 1.8,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 2.59,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "512GB SSD",
+            "Bluetooth 5.0",
+            "WiFi 6",
+            "Pantalla táctil"
+        ],
+        "calificacion": 4.1,
+        "descripcion": "Electrodoméstico Apple modelo E0D9 con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2022-10-23"
+    },
+    {
+        "id_producto": 13,
+        "nombre": "Ciclism Adidas modelo 2375",
+        "marca": "Adidas",
+        "precio": 1025.48,
+        "descuento": 15,
+        "categoria": "Deportes",
+        "subcategoria": "Ciclismo",
+        "stock": 66,
+        "dimensiones": {
+            "ancho": 34.3,
+            "alto": 22.7,
+            "profundidad": 4.7,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 1.13,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "WiFi 6",
+            "16GB de RAM",
+            "Bluetooth 5.0",
+            "Pantalla 4K"
+        ],
+        "calificacion": 3.2,
+        "descripcion": "Ciclism Adidas modelo 2375 con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2022-12-23"
+    },
+    {
+        "id_producto": 14,
+        "nombre": "Calzad Adidas modelo F29D",
+        "marca": "Adidas",
+        "precio": 328.35,
+        "descuento": 5,
+        "categoria": "Moda",
+        "subcategoria": "Calzado",
+        "stock": 90,
+        "dimensiones": {
+            "ancho": 21.8,
+            "alto": 31.0,
+            "profundidad": 5.4,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 4.78,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "WiFi 6",
+            "Procesador Intel Core i7",
+            "Pantalla táctil",
+            "Batería de larga duración"
+        ],
+        "calificacion": 4.4,
+        "descripcion": "Calzad Adidas modelo F29D con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2022-04-10"
+    },
+    {
+        "id_producto": 15,
+        "nombre": "Rop Lenovo modelo CCCC",
+        "marca": "Lenovo",
+        "precio": 1307.78,
+        "descuento": 20,
+        "categoria": "Moda",
+        "subcategoria": "Ropa",
+        "stock": 59,
+        "dimensiones": {
+            "ancho": 36.7,
+            "alto": 32.3,
+            "profundidad": 5.8,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 4.33,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "Pantalla 4K",
+            "Batería de larga duración",
+            "Carga rápida",
+            "16GB de RAM",
+            "Bluetooth 5.0"
+        ],
+        "calificacion": 3.1,
+        "descripcion": "Rop Lenovo modelo CCCC con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2022-08-11"
+    },
+    {
+        "id_producto": 16,
+        "nombre": "Calzad Apple modelo 1826",
+        "marca": "Apple",
+        "precio": 1267.23,
+        "descuento": 0,
+        "categoria": "Moda",
+        "subcategoria": "Calzado",
+        "stock": 58,
+        "dimensiones": {
+            "ancho": 11.7,
+            "alto": 18.4,
+            "profundidad": 2.4,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 0.62,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "Procesador Intel Core i7",
+            "Batería de larga duración",
+            "Pantalla 4K",
+            "Resistente al agua"
+        ],
+        "calificacion": 3.9,
+        "descripcion": "Calzad Apple modelo 1826 con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2023-06-04"
+    },
+    {
+        "id_producto": 17,
+        "nombre": "Cocin Xiaomi modelo 75AD",
+        "marca": "Xiaomi",
+        "precio": 449.98,
+        "descuento": 0,
+        "categoria": "Hogar",
+        "subcategoria": "Cocina",
+        "stock": 43,
+        "dimensiones": {
+            "ancho": 40.3,
+            "alto": 25.6,
+            "profundidad": 9.1,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 4.42,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "Pantalla táctil",
+            "Resistente al agua",
+            "WiFi 6"
+        ],
+        "calificacion": 3.7,
+        "descripcion": "Cocin Xiaomi modelo 75AD con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2024-02-13"
+    },
+    {
+        "id_producto": 18,
+        "nombre": "Accesorio LG modelo AE2A",
+        "marca": "LG",
+        "precio": 1769.41,
+        "descuento": 15,
+        "categoria": "Moda",
+        "subcategoria": "Accesorios",
+        "stock": 94,
+        "dimensiones": {
+            "ancho": 45.3,
+            "alto": 26.4,
+            "profundidad": 2.9,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 0.37,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "Resistente al agua",
+            "Pantalla táctil",
+            "Carga rápida"
+        ],
+        "calificacion": 3.2,
+        "descripcion": "Accesorio LG modelo AE2A con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2024-01-16"
+    },
+    {
+        "id_producto": 19,
+        "nombre": "Fitnes Sony modelo BD2A",
+        "marca": "Sony",
+        "precio": 1033.67,
+        "descuento": 5,
+        "categoria": "Deportes",
+        "subcategoria": "Fitness",
+        "stock": 96,
+        "dimensiones": {
+            "ancho": 13.5,
+            "alto": 38.8,
+            "profundidad": 1.3,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 4.21,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "Resistente al agua",
+            "Batería de larga duración",
+            "Bluetooth 5.0",
+            "WiFi 6"
+        ],
+        "calificacion": 3.5,
+        "descripcion": "Fitnes Sony modelo BD2A con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2022-09-28"
+    },
+    {
+        "id_producto": 20,
+        "nombre": "Laptop Apple modelo 76E8",
+        "marca": "Apple",
+        "precio": 825.03,
+        "descuento": 20,
+        "categoria": "Electrónica",
+        "subcategoria": "Laptops",
+        "stock": 11,
+        "dimensiones": {
+            "ancho": 16.9,
+            "alto": 46.6,
+            "profundidad": 8.5,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 3.77,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "512GB SSD",
+            "Pantalla táctil",
+            "Batería de larga duración",
+            "Resistente al agua"
+        ],
+        "calificacion": 3.3,
+        "descripcion": "Laptop Apple modelo 76E8 con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2023-11-28"
+    },
+    {
+        "id_producto": 21,
+        "nombre": "Accesorio Adidas modelo 9D08",
+        "marca": "Adidas",
+        "precio": 939.8,
+        "descuento": 5,
+        "categoria": "Electrónica",
+        "subcategoria": "Accesorios",
+        "stock": 94,
+        "dimensiones": {
+            "ancho": 35.2,
+            "alto": 17.6,
+            "profundidad": 2.4,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 4.2,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "Batería de larga duración",
+            "Pantalla 4K",
+            "Pantalla táctil",
+            "512GB SSD"
+        ],
+        "calificacion": 4.6,
+        "descripcion": "Accesorio Adidas modelo 9D08 con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2023-02-24"
+    },
+    {
+        "id_producto": 22,
+        "nombre": "Rop Nike modelo AC9F",
+        "marca": "Nike",
+        "precio": 1640.5,
+        "descuento": 10,
+        "categoria": "Moda",
+        "subcategoria": "Ropa",
+        "stock": 86,
+        "dimensiones": {
+            "ancho": 20.8,
+            "alto": 25.0,
+            "profundidad": 2.9,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 2.1,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "WiFi 6",
+            "Resistente al agua",
+            "512GB SSD",
+            "Pantalla táctil",
+            "Pantalla 4K"
+        ],
+        "calificacion": 4.3,
+        "descripcion": "Rop Nike modelo AC9F con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2023-01-28"
+    },
+    {
+        "id_producto": 23,
+        "nombre": "Fitnes Sony modelo B6E9",
+        "marca": "Sony",
+        "precio": 276.47,
+        "descuento": 20,
+        "categoria": "Deportes",
+        "subcategoria": "Fitness",
+        "stock": 52,
+        "dimensiones": {
+            "ancho": 12.0,
+            "alto": 16.7,
+            "profundidad": 2.2,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 4.03,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "Procesador Intel Core i7",
+            "WiFi 6",
+            "Batería de larga duración",
+            "Carga rápida",
+            "Pantalla táctil"
+        ],
+        "calificacion": 4.1,
+        "descripcion": "Fitnes Sony modelo B6E9 con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2024-05-01"
+    },
+    {
+        "id_producto": 24,
+        "nombre": "Accesorio HP modelo E008",
+        "marca": "HP",
+        "precio": 1689.39,
+        "descuento": 5,
+        "categoria": "Electrónica",
+        "subcategoria": "Accesorios",
+        "stock": 63,
+        "dimensiones": {
+            "ancho": 30.4,
+            "alto": 17.2,
+            "profundidad": 9.2,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 3.54,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "512GB SSD",
+            "Pantalla táctil",
+            "16GB de RAM"
+        ],
+        "calificacion": 4.7,
+        "descripcion": "Accesorio HP modelo E008 con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2023-06-09"
+    },
+    {
+        "id_producto": 25,
+        "nombre": "Accesorio Sony modelo 761A",
+        "marca": "Sony",
+        "precio": 422.74,
+        "descuento": 15,
+        "categoria": "Moda",
+        "subcategoria": "Accesorios",
+        "stock": 82,
+        "dimensiones": {
+            "ancho": 11.7,
+            "alto": 30.4,
+            "profundidad": 7.7,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 0.53,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "WiFi 6",
+            "Pantalla táctil",
+            "Carga rápida"
+        ],
+        "calificacion": 4.4,
+        "descripcion": "Accesorio Sony modelo 761A con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2022-04-04"
+    },
+    {
+        "id_producto": 26,
+        "nombre": "Smartphone Asus modelo 94F8",
+        "marca": "Asus",
+        "precio": 174.53,
+        "descuento": 0,
+        "categoria": "Electrónica",
+        "subcategoria": "Smartphones",
+        "stock": 59,
+        "dimensiones": {
+            "ancho": 32.3,
+            "alto": 18.7,
+            "profundidad": 8.7,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 2.79,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "16GB de RAM",
+            "Carga rápida",
+            "Pantalla táctil",
+            "Resistente al agua",
+            "WiFi 6"
+        ],
+        "calificacion": 4.2,
+        "descripcion": "Smartphone Asus modelo 94F8 con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2024-03-31"
+    },
+    {
+        "id_producto": 27,
+        "nombre": "Rop Sony modelo 1E13",
+        "marca": "Sony",
+        "precio": 1585.87,
+        "descuento": 15,
+        "categoria": "Moda",
+        "subcategoria": "Ropa",
+        "stock": 99,
+        "dimensiones": {
+            "ancho": 37.1,
+            "alto": 42.9,
+            "profundidad": 3.0,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 2.5,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "Bluetooth 5.0",
+            "512GB SSD",
+            "Procesador Intel Core i7",
+            "Resistente al agua",
+            "Batería de larga duración"
+        ],
+        "calificacion": 3.5,
+        "descripcion": "Rop Sony modelo 1E13 con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2023-08-15"
+    },
+    {
+        "id_producto": 28,
+        "nombre": "Electrodoméstico Asus modelo 1BCC",
+        "marca": "Asus",
+        "precio": 682.64,
+        "descuento": 5,
+        "categoria": "Hogar",
+        "subcategoria": "Electrodomésticos",
+        "stock": 15,
+        "dimensiones": {
+            "ancho": 19.1,
+            "alto": 25.7,
+            "profundidad": 1.9,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 4.69,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "Procesador Intel Core i7",
+            "Resistente al agua",
+            "Pantalla táctil",
+            "Carga rápida"
+        ],
+        "calificacion": 3.1,
+        "descripcion": "Electrodoméstico Asus modelo 1BCC con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2024-01-28"
+    },
+    {
+        "id_producto": 29,
+        "nombre": "Rop Asus modelo AB6B",
+        "marca": "Asus",
+        "precio": 723.76,
+        "descuento": 20,
+        "categoria": "Moda",
+        "subcategoria": "Ropa",
+        "stock": 65,
+        "dimensiones": {
+            "ancho": 15.6,
+            "alto": 36.6,
+            "profundidad": 7.7,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 4.68,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "Pantalla 4K",
+            "Bluetooth 5.0",
+            "Procesador Intel Core i7",
+            "WiFi 6",
+            "Pantalla táctil"
+        ],
+        "calificacion": 3.9,
+        "descripcion": "Rop Asus modelo AB6B con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2023-02-09"
+    },
+    {
+        "id_producto": 30,
+        "nombre": "Accesorio Sony modelo 8833",
+        "marca": "Sony",
+        "precio": 186.08,
+        "descuento": 0,
+        "categoria": "Moda",
+        "subcategoria": "Accesorios",
+        "stock": 39,
+        "dimensiones": {
+            "ancho": 40.4,
+            "alto": 13.0,
+            "profundidad": 6.8,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 0.66,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "16GB de RAM",
+            "Procesador Intel Core i7",
+            "Bluetooth 5.0",
+            "Carga rápida",
+            "Batería de larga duración"
+        ],
+        "calificacion": 4.0,
+        "descripcion": "Accesorio Sony modelo 8833 con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2024-05-17"
+    },
+    {
+        "id_producto": 31,
+        "nombre": "Decoració Lenovo modelo 0DEF",
+        "marca": "Lenovo",
+        "precio": 560.41,
+        "descuento": 0,
+        "categoria": "Hogar",
+        "subcategoria": "Decoración",
+        "stock": 14,
+        "dimensiones": {
+            "ancho": 22.6,
+            "alto": 11.7,
+            "profundidad": 3.5,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 3.3,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "Procesador Intel Core i7",
+            "Pantalla 4K",
+            "Bluetooth 5.0"
+        ],
+        "calificacion": 3.6,
+        "descripcion": "Decoració Lenovo modelo 0DEF con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2022-02-19"
+    },
+    {
+        "id_producto": 32,
+        "nombre": "Cocin Xiaomi modelo 9B4F",
+        "marca": "Xiaomi",
+        "precio": 1249.65,
+        "descuento": 0,
+        "categoria": "Hogar",
+        "subcategoria": "Cocina",
+        "stock": 85,
+        "dimensiones": {
+            "ancho": 39.8,
+            "alto": 24.8,
+            "profundidad": 5.9,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 4.91,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "Carga rápida",
+            "Resistente al agua",
+            "512GB SSD"
+        ],
+        "calificacion": 3.4,
+        "descripcion": "Cocin Xiaomi modelo 9B4F con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2023-12-19"
+    },
+    {
+        "id_producto": 33,
+        "nombre": "Ciclism Xiaomi modelo 51F8",
+        "marca": "Xiaomi",
+        "precio": 1591.18,
+        "descuento": 5,
+        "categoria": "Deportes",
+        "subcategoria": "Ciclismo",
+        "stock": 70,
+        "dimensiones": {
+            "ancho": 10.9,
+            "alto": 17.5,
+            "profundidad": 8.3,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 4.45,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "512GB SSD",
+            "Procesador Intel Core i7",
+            "Pantalla táctil",
+            "Bluetooth 5.0"
+        ],
+        "calificacion": 4.4,
+        "descripcion": "Ciclism Xiaomi modelo 51F8 con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2024-04-11"
+    },
+    {
+        "id_producto": 34,
+        "nombre": "Accesorio LG modelo 2B13",
+        "marca": "LG",
+        "precio": 361.83,
+        "descuento": 5,
+        "categoria": "Electrónica",
+        "subcategoria": "Accesorios",
+        "stock": 52,
+        "dimensiones": {
+            "ancho": 13.6,
+            "alto": 14.0,
+            "profundidad": 6.3,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 1.27,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "Batería de larga duración",
+            "Pantalla 4K",
+            "512GB SSD",
+            "Resistente al agua",
+            "Bluetooth 5.0"
+        ],
+        "calificacion": 5.0,
+        "descripcion": "Accesorio LG modelo 2B13 con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2022-12-23"
+    },
+    {
+        "id_producto": 35,
+        "nombre": "Calzad Adidas modelo B406",
+        "marca": "Adidas",
+        "precio": 524.95,
+        "descuento": 5,
+        "categoria": "Moda",
+        "subcategoria": "Calzado",
+        "stock": 62,
+        "dimensiones": {
+            "ancho": 43.9,
+            "alto": 38.8,
+            "profundidad": 4.9,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 0.87,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "Pantalla 4K",
+            "WiFi 6",
+            "Procesador Intel Core i7",
+            "Carga rápida",
+            "Resistente al agua"
+        ],
+        "calificacion": 4.7,
+        "descripcion": "Calzad Adidas modelo B406 con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2022-05-22"
+    },
+    {
+        "id_producto": 36,
+        "nombre": "Smartphone HP modelo C965",
+        "marca": "HP",
+        "precio": 422.57,
+        "descuento": 15,
+        "categoria": "Electrónica",
+        "subcategoria": "Smartphones",
+        "stock": 18,
+        "dimensiones": {
+            "ancho": 47.9,
+            "alto": 19.9,
+            "profundidad": 2.7,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 0.79,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "Resistente al agua",
+            "512GB SSD",
+            "Pantalla 4K",
+            "Carga rápida"
+        ],
+        "calificacion": 4.9,
+        "descripcion": "Smartphone HP modelo C965 con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2023-04-04"
+    },
+    {
+        "id_producto": 37,
+        "nombre": "Accesorio Xiaomi modelo 9E25",
+        "marca": "Xiaomi",
+        "precio": 1831.36,
+        "descuento": 0,
+        "categoria": "Electrónica",
+        "subcategoria": "Accesorios",
+        "stock": 55,
+        "dimensiones": {
+            "ancho": 28.0,
+            "alto": 17.5,
+            "profundidad": 2.6,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 0.33,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "Pantalla 4K",
+            "16GB de RAM",
+            "Procesador Intel Core i7"
+        ],
+        "calificacion": 3.7,
+        "descripcion": "Accesorio Xiaomi modelo 9E25 con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2023-04-26"
+    },
+    {
+        "id_producto": 38,
+        "nombre": "Laptop Asus modelo 5DD2",
+        "marca": "Asus",
+        "precio": 1109.37,
+        "descuento": 5,
+        "categoria": "Electrónica",
+        "subcategoria": "Laptops",
+        "stock": 45,
+        "dimensiones": {
+            "ancho": 47.0,
+            "alto": 21.5,
+            "profundidad": 1.6,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 2.26,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "WiFi 6",
+            "Procesador Intel Core i7",
+            "Carga rápida",
+            "Batería de larga duración",
+            "16GB de RAM"
+        ],
+        "calificacion": 4.6,
+        "descripcion": "Laptop Asus modelo 5DD2 con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2024-06-15"
+    },
+    {
+        "id_producto": 39,
+        "nombre": "Calzad Xiaomi modelo CFF8",
+        "marca": "Xiaomi",
+        "precio": 1168.32,
+        "descuento": 20,
+        "categoria": "Moda",
+        "subcategoria": "Calzado",
+        "stock": 56,
+        "dimensiones": {
+            "ancho": 37.8,
+            "alto": 42.0,
+            "profundidad": 6.8,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 4.24,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "Pantalla 4K",
+            "16GB de RAM",
+            "Carga rápida"
+        ],
+        "calificacion": 3.9,
+        "descripcion": "Calzad Xiaomi modelo CFF8 con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2023-08-26"
+    },
+    {
+        "id_producto": 40,
+        "nombre": "Laptop Xiaomi modelo D643",
+        "marca": "Xiaomi",
+        "precio": 468.18,
+        "descuento": 0,
+        "categoria": "Electrónica",
+        "subcategoria": "Laptops",
+        "stock": 65,
+        "dimensiones": {
+            "ancho": 32.4,
+            "alto": 31.8,
+            "profundidad": 6.7,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 0.84,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "16GB de RAM",
+            "512GB SSD",
+            "Pantalla táctil"
+        ],
+        "calificacion": 3.5,
+        "descripcion": "Laptop Xiaomi modelo D643 con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2023-05-03"
+    },
+    {
+        "id_producto": 41,
+        "nombre": "Ciclism Asus modelo B9D9",
+        "marca": "Asus",
+        "precio": 1167.91,
+        "descuento": 20,
+        "categoria": "Deportes",
+        "subcategoria": "Ciclismo",
+        "stock": 94,
+        "dimensiones": {
+            "ancho": 49.7,
+            "alto": 21.5,
+            "profundidad": 3.5,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 0.87,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "Pantalla 4K",
+            "16GB de RAM",
+            "Batería de larga duración"
+        ],
+        "calificacion": 3.3,
+        "descripcion": "Ciclism Asus modelo B9D9 con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2022-03-13"
+    },
+    {
+        "id_producto": 42,
+        "nombre": "Decoració Xiaomi modelo DC31",
+        "marca": "Xiaomi",
+        "precio": 729.02,
+        "descuento": 20,
+        "categoria": "Hogar",
+        "subcategoria": "Decoración",
+        "stock": 79,
+        "dimensiones": {
+            "ancho": 14.7,
+            "alto": 45.9,
+            "profundidad": 6.0,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 2.46,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "Resistente al agua",
+            "Batería de larga duración",
+            "WiFi 6",
+            "Pantalla táctil"
+        ],
+        "calificacion": 3.2,
+        "descripcion": "Decoració Xiaomi modelo DC31 con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2023-12-23"
+    },
+    {
+        "id_producto": 43,
+        "nombre": "Smartphone HP modelo 7FA2",
+        "marca": "HP",
+        "precio": 1113.21,
+        "descuento": 20,
+        "categoria": "Electrónica",
+        "subcategoria": "Smartphones",
+        "stock": 93,
+        "dimensiones": {
+            "ancho": 25.9,
+            "alto": 14.7,
+            "profundidad": 8.1,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 1.25,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "Resistente al agua",
+            "16GB de RAM",
+            "Pantalla 4K"
+        ],
+        "calificacion": 3.2,
+        "descripcion": "Smartphone HP modelo 7FA2 con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2024-05-18"
+    },
+    {
+        "id_producto": 44,
+        "nombre": "Calzad Samsung modelo 8F8C",
+        "marca": "Samsung",
+        "precio": 1761.71,
+        "descuento": 15,
+        "categoria": "Moda",
+        "subcategoria": "Calzado",
+        "stock": 32,
+        "dimensiones": {
+            "ancho": 34.5,
+            "alto": 23.9,
+            "profundidad": 2.0,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 0.94,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "Procesador Intel Core i7",
+            "WiFi 6",
+            "Pantalla táctil",
+            "Carga rápida",
+            "Resistente al agua"
+        ],
+        "calificacion": 5.0,
+        "descripcion": "Calzad Samsung modelo 8F8C con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2022-01-29"
+    },
+    {
+        "id_producto": 45,
+        "nombre": "Aire Libr Adidas modelo 0DF4",
+        "marca": "Adidas",
+        "precio": 1667.16,
+        "descuento": 15,
+        "categoria": "Deportes",
+        "subcategoria": "Aire Libre",
+        "stock": 38,
+        "dimensiones": {
+            "ancho": 47.8,
+            "alto": 31.9,
+            "profundidad": 2.9,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 3.93,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "Bluetooth 5.0",
+            "Pantalla táctil",
+            "512GB SSD",
+            "Resistente al agua"
+        ],
+        "calificacion": 3.9,
+        "descripcion": "Aire Libr Adidas modelo 0DF4 con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2022-06-01"
+    },
+    {
+        "id_producto": 46,
+        "nombre": "Aire Libr Nike modelo 176C",
+        "marca": "Nike",
+        "precio": 1939.33,
+        "descuento": 20,
+        "categoria": "Deportes",
+        "subcategoria": "Aire Libre",
+        "stock": 45,
+        "dimensiones": {
+            "ancho": 36.2,
+            "alto": 26.5,
+            "profundidad": 4.4,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 2.3,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "Procesador Intel Core i7",
+            "Resistente al agua",
+            "Batería de larga duración"
+        ],
+        "calificacion": 5.0,
+        "descripcion": "Aire Libr Nike modelo 176C con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2022-10-31"
+    },
+    {
+        "id_producto": 47,
+        "nombre": "Fitnes Sony modelo 35F6",
+        "marca": "Sony",
+        "precio": 993.46,
+        "descuento": 0,
+        "categoria": "Deportes",
+        "subcategoria": "Fitness",
+        "stock": 28,
+        "dimensiones": {
+            "ancho": 17.4,
+            "alto": 17.3,
+            "profundidad": 3.9,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 0.32,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "Carga rápida",
+            "Pantalla táctil",
+            "512GB SSD",
+            "Bluetooth 5.0"
+        ],
+        "calificacion": 3.5,
+        "descripcion": "Fitnes Sony modelo 35F6 con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2023-09-20"
+    },
+    {
+        "id_producto": 48,
+        "nombre": "Ciclism HP modelo F9AE",
+        "marca": "HP",
+        "precio": 1404.09,
+        "descuento": 15,
+        "categoria": "Deportes",
+        "subcategoria": "Ciclismo",
+        "stock": 29,
+        "dimensiones": {
+            "ancho": 11.3,
+            "alto": 21.3,
+            "profundidad": 2.2,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 3.83,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "Bluetooth 5.0",
+            "16GB de RAM",
+            "Pantalla táctil",
+            "Resistente al agua"
+        ],
+        "calificacion": 5.0,
+        "descripcion": "Ciclism HP modelo F9AE con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2022-11-04"
+    },
+    {
+        "id_producto": 49,
+        "nombre": "Aire Libr Nike modelo 63E0",
+        "marca": "Nike",
+        "precio": 671.09,
+        "descuento": 10,
+        "categoria": "Deportes",
+        "subcategoria": "Aire Libre",
+        "stock": 65,
+        "dimensiones": {
+            "ancho": 21.5,
+            "alto": 19.1,
+            "profundidad": 4.5,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 0.8,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "Batería de larga duración",
+            "WiFi 6",
+            "512GB SSD"
+        ],
+        "calificacion": 4.4,
+        "descripcion": "Aire Libr Nike modelo 63E0 con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2023-08-06"
+    },
+    {
+        "id_producto": 50,
+        "nombre": "Accesorio HP modelo D05E",
+        "marca": "HP",
+        "precio": 294.42,
+        "descuento": 15,
+        "categoria": "Electrónica",
+        "subcategoria": "Accesorios",
+        "stock": 55,
+        "dimensiones": {
+            "ancho": 23.1,
+            "alto": 18.1,
+            "profundidad": 7.8,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 4.49,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "Procesador Intel Core i7",
+            "Resistente al agua",
+            "512GB SSD"
+        ],
+        "calificacion": 4.0,
+        "descripcion": "Accesorio HP modelo D05E con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2024-04-18"
+    },
+    {
+        "id_producto": 51,
+        "nombre": "Electrodoméstico Samsung modelo 0BA5",
+        "marca": "Samsung",
+        "precio": 1983.4,
+        "descuento": 5,
+        "categoria": "Hogar",
+        "subcategoria": "Electrodomésticos",
+        "stock": 22,
+        "dimensiones": {
+            "ancho": 45.9,
+            "alto": 36.7,
+            "profundidad": 8.1,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 2.92,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "Resistente al agua",
+            "16GB de RAM",
+            "WiFi 6",
+            "Carga rápida"
+        ],
+        "calificacion": 4.8,
+        "descripcion": "Electrodoméstico Samsung modelo 0BA5 con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2023-02-25"
+    },
+    {
+        "id_producto": 52,
+        "nombre": "Smartphone Adidas modelo 5D37",
+        "marca": "Adidas",
+        "precio": 706.77,
+        "descuento": 15,
+        "categoria": "Electrónica",
+        "subcategoria": "Smartphones",
+        "stock": 66,
+        "dimensiones": {
+            "ancho": 10.7,
+            "alto": 41.1,
+            "profundidad": 9.9,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 4.88,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "Pantalla 4K",
+            "Procesador Intel Core i7",
+            "Carga rápida",
+            "Resistente al agua",
+            "16GB de RAM"
+        ],
+        "calificacion": 4.9,
+        "descripcion": "Smartphone Adidas modelo 5D37 con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2023-05-07"
+    },
+    {
+        "id_producto": 53,
+        "nombre": "Rop Adidas modelo 071F",
+        "marca": "Adidas",
+        "precio": 84.12,
+        "descuento": 0,
+        "categoria": "Moda",
+        "subcategoria": "Ropa",
+        "stock": 82,
+        "dimensiones": {
+            "ancho": 28.4,
+            "alto": 22.3,
+            "profundidad": 6.1,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 4.19,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "WiFi 6",
+            "Bluetooth 5.0",
+            "16GB de RAM",
+            "Procesador Intel Core i7",
+            "Resistente al agua"
+        ],
+        "calificacion": 3.5,
+        "descripcion": "Rop Adidas modelo 071F con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2022-09-01"
+    },
+    {
+        "id_producto": 54,
+        "nombre": "Cocin Lenovo modelo 3850",
+        "marca": "Lenovo",
+        "precio": 839.77,
+        "descuento": 10,
+        "categoria": "Hogar",
+        "subcategoria": "Cocina",
+        "stock": 100,
+        "dimensiones": {
+            "ancho": 10.1,
+            "alto": 25.8,
+            "profundidad": 5.1,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 0.67,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "Resistente al agua",
+            "Carga rápida",
+            "Procesador Intel Core i7"
+        ],
+        "calificacion": 3.8,
+        "descripcion": "Cocin Lenovo modelo 3850 con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2022-10-02"
+    },
+    {
+        "id_producto": 55,
+        "nombre": "Cocin Nike modelo B5D6",
+        "marca": "Nike",
+        "precio": 1515.42,
+        "descuento": 10,
+        "categoria": "Hogar",
+        "subcategoria": "Cocina",
+        "stock": 91,
+        "dimensiones": {
+            "ancho": 25.6,
+            "alto": 46.6,
+            "profundidad": 6.7,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 4.42,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "Resistente al agua",
+            "Pantalla 4K",
+            "16GB de RAM",
+            "Procesador Intel Core i7",
+            "WiFi 6"
+        ],
+        "calificacion": 3.4,
+        "descripcion": "Cocin Nike modelo B5D6 con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2022-03-12"
+    },
+    {
+        "id_producto": 56,
+        "nombre": "Electrodoméstico Sony modelo E54C",
+        "marca": "Sony",
+        "precio": 1912.26,
+        "descuento": 15,
+        "categoria": "Hogar",
+        "subcategoria": "Electrodomésticos",
+        "stock": 25,
+        "dimensiones": {
+            "ancho": 36.8,
+            "alto": 20.0,
+            "profundidad": 2.1,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 4.66,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "16GB de RAM",
+            "Resistente al agua",
+            "Bluetooth 5.0",
+            "Procesador Intel Core i7",
+            "512GB SSD"
+        ],
+        "calificacion": 4.8,
+        "descripcion": "Electrodoméstico Sony modelo E54C con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2022-06-18"
+    },
+    {
+        "id_producto": 57,
+        "nombre": "Calzad Samsung modelo 3E4A",
+        "marca": "Samsung",
+        "precio": 1177.95,
+        "descuento": 20,
+        "categoria": "Moda",
+        "subcategoria": "Calzado",
+        "stock": 99,
+        "dimensiones": {
+            "ancho": 16.7,
+            "alto": 36.7,
+            "profundidad": 7.1,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 4.24,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "Carga rápida",
+            "Batería de larga duración",
+            "Resistente al agua",
+            "16GB de RAM",
+            "Pantalla 4K"
+        ],
+        "calificacion": 3.0,
+        "descripcion": "Calzad Samsung modelo 3E4A con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2022-06-10"
+    },
+    {
+        "id_producto": 58,
+        "nombre": "Decoració HP modelo 7A44",
+        "marca": "HP",
+        "precio": 1120.2,
+        "descuento": 15,
+        "categoria": "Hogar",
+        "subcategoria": "Decoración",
+        "stock": 47,
+        "dimensiones": {
+            "ancho": 39.0,
+            "alto": 45.2,
+            "profundidad": 3.5,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 4.66,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "Bluetooth 5.0",
+            "Batería de larga duración",
+            "Pantalla táctil",
+            "Resistente al agua"
+        ],
+        "calificacion": 4.7,
+        "descripcion": "Decoració HP modelo 7A44 con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2024-06-19"
+    },
+    {
+        "id_producto": 59,
+        "nombre": "Calzad Lenovo modelo DF33",
+        "marca": "Lenovo",
+        "precio": 515.8,
+        "descuento": 5,
+        "categoria": "Moda",
+        "subcategoria": "Calzado",
+        "stock": 94,
+        "dimensiones": {
+            "ancho": 37.6,
+            "alto": 20.3,
+            "profundidad": 5.8,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 4.72,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "Pantalla táctil",
+            "512GB SSD",
+            "Bluetooth 5.0",
+            "Resistente al agua",
+            "WiFi 6"
+        ],
+        "calificacion": 3.3,
+        "descripcion": "Calzad Lenovo modelo DF33 con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2023-09-26"
+    },
+    {
+        "id_producto": 60,
+        "nombre": "Cocin Adidas modelo 0680",
+        "marca": "Adidas",
+        "precio": 431.3,
+        "descuento": 20,
+        "categoria": "Hogar",
+        "subcategoria": "Cocina",
+        "stock": 18,
+        "dimensiones": {
+            "ancho": 24.2,
+            "alto": 26.1,
+            "profundidad": 6.1,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 0.96,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "Pantalla táctil",
+            "WiFi 6",
+            "Batería de larga duración",
+            "Carga rápida",
+            "Pantalla 4K"
+        ],
+        "calificacion": 4.1,
+        "descripcion": "Cocin Adidas modelo 0680 con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2023-03-26"
+    },
+    {
+        "id_producto": 61,
+        "nombre": "Cocin Asus modelo 0D0B",
+        "marca": "Asus",
+        "precio": 1368.54,
+        "descuento": 15,
+        "categoria": "Hogar",
+        "subcategoria": "Cocina",
+        "stock": 42,
+        "dimensiones": {
+            "ancho": 10.0,
+            "alto": 24.4,
+            "profundidad": 1.2,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 4.5,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "Batería de larga duración",
+            "16GB de RAM",
+            "Pantalla 4K",
+            "Resistente al agua",
+            "Pantalla táctil"
+        ],
+        "calificacion": 3.2,
+        "descripcion": "Cocin Asus modelo 0D0B con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2022-05-31"
+    },
+    {
+        "id_producto": 62,
+        "nombre": "Electrodoméstico Asus modelo 08CD",
+        "marca": "Asus",
+        "precio": 1200.53,
+        "descuento": 15,
+        "categoria": "Hogar",
+        "subcategoria": "Electrodomésticos",
+        "stock": 77,
+        "dimensiones": {
+            "ancho": 44.6,
+            "alto": 14.4,
+            "profundidad": 5.7,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 2.0,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "Batería de larga duración",
+            "WiFi 6",
+            "Bluetooth 5.0",
+            "16GB de RAM",
+            "Resistente al agua"
+        ],
+        "calificacion": 3.2,
+        "descripcion": "Electrodoméstico Asus modelo 08CD con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2023-02-27"
+    },
+    {
+        "id_producto": 63,
+        "nombre": "Accesorio Lenovo modelo 9170",
+        "marca": "Lenovo",
+        "precio": 817.46,
+        "descuento": 20,
+        "categoria": "Moda",
+        "subcategoria": "Accesorios",
+        "stock": 58,
+        "dimensiones": {
+            "ancho": 21.7,
+            "alto": 47.6,
+            "profundidad": 9.5,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 3.53,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "Pantalla 4K",
+            "Pantalla táctil",
+            "WiFi 6",
+            "Bluetooth 5.0"
+        ],
+        "calificacion": 4.7,
+        "descripcion": "Accesorio Lenovo modelo 9170 con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2024-05-08"
+    },
+    {
+        "id_producto": 64,
+        "nombre": "Rop HP modelo 5DE4",
+        "marca": "HP",
+        "precio": 1704.4,
+        "descuento": 5,
+        "categoria": "Moda",
+        "subcategoria": "Ropa",
+        "stock": 60,
+        "dimensiones": {
+            "ancho": 27.3,
+            "alto": 14.9,
+            "profundidad": 5.1,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 1.5,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "WiFi 6",
+            "Resistente al agua",
+            "Carga rápida",
+            "Bluetooth 5.0"
+        ],
+        "calificacion": 3.2,
+        "descripcion": "Rop HP modelo 5DE4 con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2024-04-10"
+    },
+    {
+        "id_producto": 65,
+        "nombre": "Ciclism Nike modelo A36F",
+        "marca": "Nike",
+        "precio": 683.05,
+        "descuento": 0,
+        "categoria": "Deportes",
+        "subcategoria": "Ciclismo",
+        "stock": 81,
+        "dimensiones": {
+            "ancho": 43.3,
+            "alto": 10.1,
+            "profundidad": 8.1,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 4.42,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "16GB de RAM",
+            "Bluetooth 5.0",
+            "Pantalla 4K",
+            "Procesador Intel Core i7",
+            "Batería de larga duración"
+        ],
+        "calificacion": 3.5,
+        "descripcion": "Ciclism Nike modelo A36F con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2023-08-12"
+    },
+    {
+        "id_producto": 66,
+        "nombre": "Smartphone LG modelo 075D",
+        "marca": "LG",
+        "precio": 792.94,
+        "descuento": 10,
+        "categoria": "Electrónica",
+        "subcategoria": "Smartphones",
+        "stock": 74,
+        "dimensiones": {
+            "ancho": 18.7,
+            "alto": 11.2,
+            "profundidad": 9.0,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 3.44,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "Resistente al agua",
+            "512GB SSD",
+            "Pantalla táctil",
+            "WiFi 6"
+        ],
+        "calificacion": 3.6,
+        "descripcion": "Smartphone LG modelo 075D con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2023-12-02"
+    },
+    {
+        "id_producto": 67,
+        "nombre": "Aire Libr Sony modelo 56A6",
+        "marca": "Sony",
+        "precio": 1758.68,
+        "descuento": 15,
+        "categoria": "Deportes",
+        "subcategoria": "Aire Libre",
+        "stock": 63,
+        "dimensiones": {
+            "ancho": 23.2,
+            "alto": 44.4,
+            "profundidad": 3.1,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 2.84,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "WiFi 6",
+            "Bluetooth 5.0",
+            "Batería de larga duración",
+            "Pantalla táctil",
+            "512GB SSD"
+        ],
+        "calificacion": 4.3,
+        "descripcion": "Aire Libr Sony modelo 56A6 con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2022-11-20"
+    },
+    {
+        "id_producto": 68,
+        "nombre": "Cocin Adidas modelo 1B1B",
+        "marca": "Adidas",
+        "precio": 1673.39,
+        "descuento": 5,
+        "categoria": "Hogar",
+        "subcategoria": "Cocina",
+        "stock": 96,
+        "dimensiones": {
+            "ancho": 25.0,
+            "alto": 36.8,
+            "profundidad": 5.6,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 0.87,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "Bluetooth 5.0",
+            "Batería de larga duración",
+            "WiFi 6",
+            "512GB SSD"
+        ],
+        "calificacion": 3.4,
+        "descripcion": "Cocin Adidas modelo 1B1B con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2022-01-12"
+    },
+    {
+        "id_producto": 69,
+        "nombre": "Electrodoméstico Apple modelo 2F18",
+        "marca": "Apple",
+        "precio": 1550.34,
+        "descuento": 20,
+        "categoria": "Hogar",
+        "subcategoria": "Electrodomésticos",
+        "stock": 51,
+        "dimensiones": {
+            "ancho": 34.1,
+            "alto": 47.6,
+            "profundidad": 3.9,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 0.41,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "Pantalla táctil",
+            "16GB de RAM",
+            "Pantalla 4K",
+            "Carga rápida",
+            "Batería de larga duración"
+        ],
+        "calificacion": 4.2,
+        "descripcion": "Electrodoméstico Apple modelo 2F18 con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2022-03-22"
+    },
+    {
+        "id_producto": 70,
+        "nombre": "Fitnes Xiaomi modelo 9578",
+        "marca": "Xiaomi",
+        "precio": 1932.75,
+        "descuento": 5,
+        "categoria": "Deportes",
+        "subcategoria": "Fitness",
+        "stock": 59,
+        "dimensiones": {
+            "ancho": 48.1,
+            "alto": 40.0,
+            "profundidad": 7.4,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 2.9,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "Procesador Intel Core i7",
+            "512GB SSD",
+            "16GB de RAM",
+            "Carga rápida"
+        ],
+        "calificacion": 3.7,
+        "descripcion": "Fitnes Xiaomi modelo 9578 con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2022-02-03"
+    },
+    {
+        "id_producto": 71,
+        "nombre": "Rop Nike modelo E952",
+        "marca": "Nike",
+        "precio": 828.2,
+        "descuento": 20,
+        "categoria": "Moda",
+        "subcategoria": "Ropa",
+        "stock": 63,
+        "dimensiones": {
+            "ancho": 24.5,
+            "alto": 48.6,
+            "profundidad": 3.7,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 2.22,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "512GB SSD",
+            "Carga rápida",
+            "16GB de RAM"
+        ],
+        "calificacion": 3.2,
+        "descripcion": "Rop Nike modelo E952 con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2024-02-27"
+    },
+    {
+        "id_producto": 72,
+        "nombre": "Cocin Nike modelo CEC8",
+        "marca": "Nike",
+        "precio": 982.74,
+        "descuento": 10,
+        "categoria": "Hogar",
+        "subcategoria": "Cocina",
+        "stock": 63,
+        "dimensiones": {
+            "ancho": 40.9,
+            "alto": 17.0,
+            "profundidad": 5.0,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 2.44,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "Pantalla 4K",
+            "Resistente al agua",
+            "Procesador Intel Core i7",
+            "Batería de larga duración"
+        ],
+        "calificacion": 3.1,
+        "descripcion": "Cocin Nike modelo CEC8 con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2022-03-07"
+    },
+    {
+        "id_producto": 73,
+        "nombre": "Decoració Samsung modelo 701E",
+        "marca": "Samsung",
+        "precio": 1764.8,
+        "descuento": 10,
+        "categoria": "Hogar",
+        "subcategoria": "Decoración",
+        "stock": 78,
+        "dimensiones": {
+            "ancho": 16.9,
+            "alto": 49.7,
+            "profundidad": 3.3,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 1.67,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "Resistente al agua",
+            "Pantalla 4K",
+            "Bluetooth 5.0",
+            "Pantalla táctil",
+            "Batería de larga duración"
+        ],
+        "calificacion": 4.7,
+        "descripcion": "Decoració Samsung modelo 701E con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2023-08-29"
+    },
+    {
+        "id_producto": 74,
+        "nombre": "Ciclism Xiaomi modelo F79A",
+        "marca": "Xiaomi",
+        "precio": 69.04,
+        "descuento": 15,
+        "categoria": "Deportes",
+        "subcategoria": "Ciclismo",
+        "stock": 32,
+        "dimensiones": {
+            "ancho": 23.1,
+            "alto": 27.9,
+            "profundidad": 4.6,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 4.26,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "Pantalla 4K",
+            "Batería de larga duración",
+            "Pantalla táctil"
+        ],
+        "calificacion": 4.8,
+        "descripcion": "Ciclism Xiaomi modelo F79A con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2024-03-17"
+    },
+    {
+        "id_producto": 75,
+        "nombre": "Accesorio Asus modelo 0137",
+        "marca": "Asus",
+        "precio": 21.73,
+        "descuento": 20,
+        "categoria": "Moda",
+        "subcategoria": "Accesorios",
+        "stock": 90,
+        "dimensiones": {
+            "ancho": 45.5,
+            "alto": 25.3,
+            "profundidad": 9.3,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 2.21,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "Procesador Intel Core i7",
+            "Resistente al agua",
+            "16GB de RAM",
+            "Pantalla 4K",
+            "Pantalla táctil"
+        ],
+        "calificacion": 3.6,
+        "descripcion": "Accesorio Asus modelo 0137 con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2023-11-13"
+    },
+    {
+        "id_producto": 76,
+        "nombre": "Cocin Adidas modelo A834",
+        "marca": "Adidas",
+        "precio": 1430.82,
+        "descuento": 5,
+        "categoria": "Hogar",
+        "subcategoria": "Cocina",
+        "stock": 18,
+        "dimensiones": {
+            "ancho": 27.9,
+            "alto": 21.2,
+            "profundidad": 9.0,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 2.72,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "512GB SSD",
+            "Batería de larga duración",
+            "Pantalla 4K",
+            "Carga rápida",
+            "Procesador Intel Core i7"
+        ],
+        "calificacion": 3.8,
+        "descripcion": "Cocin Adidas modelo A834 con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2022-08-15"
+    },
+    {
+        "id_producto": 77,
+        "nombre": "Aire Libr LG modelo 4C9D",
+        "marca": "LG",
+        "precio": 769.54,
+        "descuento": 15,
+        "categoria": "Deportes",
+        "subcategoria": "Aire Libre",
+        "stock": 61,
+        "dimensiones": {
+            "ancho": 12.5,
+            "alto": 49.5,
+            "profundidad": 3.8,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 2.05,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "16GB de RAM",
+            "Pantalla táctil",
+            "WiFi 6",
+            "Resistente al agua"
+        ],
+        "calificacion": 3.9,
+        "descripcion": "Aire Libr LG modelo 4C9D con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2023-12-26"
+    },
+    {
+        "id_producto": 78,
+        "nombre": "Calzad LG modelo FCC8",
+        "marca": "LG",
+        "precio": 89.69,
+        "descuento": 15,
+        "categoria": "Moda",
+        "subcategoria": "Calzado",
+        "stock": 52,
+        "dimensiones": {
+            "ancho": 43.2,
+            "alto": 27.7,
+            "profundidad": 3.9,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 2.86,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "512GB SSD",
+            "Resistente al agua",
+            "Carga rápida",
+            "WiFi 6"
+        ],
+        "calificacion": 3.5,
+        "descripcion": "Calzad LG modelo FCC8 con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2022-11-10"
+    },
+    {
+        "id_producto": 79,
+        "nombre": "Ciclism LG modelo FCDA",
+        "marca": "LG",
+        "precio": 1217.37,
+        "descuento": 10,
+        "categoria": "Deportes",
+        "subcategoria": "Ciclismo",
+        "stock": 43,
+        "dimensiones": {
+            "ancho": 40.8,
+            "alto": 18.2,
+            "profundidad": 3.8,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 0.29,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "512GB SSD",
+            "Batería de larga duración",
+            "Pantalla táctil",
+            "Procesador Intel Core i7",
+            "Carga rápida"
+        ],
+        "calificacion": 3.4,
+        "descripcion": "Ciclism LG modelo FCDA con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2023-10-01"
+    },
+    {
+        "id_producto": 80,
+        "nombre": "Decoració LG modelo A366",
+        "marca": "LG",
+        "precio": 223.49,
+        "descuento": 15,
+        "categoria": "Hogar",
+        "subcategoria": "Decoración",
+        "stock": 81,
+        "dimensiones": {
+            "ancho": 36.4,
+            "alto": 36.6,
+            "profundidad": 9.4,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 4.02,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "Resistente al agua",
+            "WiFi 6",
+            "Batería de larga duración",
+            "Pantalla 4K"
+        ],
+        "calificacion": 4.5,
+        "descripcion": "Decoració LG modelo A366 con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2023-05-18"
+    },
+    {
+        "id_producto": 81,
+        "nombre": "Ciclism Xiaomi modelo 4975",
+        "marca": "Xiaomi",
+        "precio": 947.51,
+        "descuento": 15,
+        "categoria": "Deportes",
+        "subcategoria": "Ciclismo",
+        "stock": 90,
+        "dimensiones": {
+            "ancho": 41.9,
+            "alto": 28.9,
+            "profundidad": 6.7,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 2.03,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "Resistente al agua",
+            "16GB de RAM",
+            "Pantalla 4K",
+            "WiFi 6",
+            "512GB SSD"
+        ],
+        "calificacion": 3.9,
+        "descripcion": "Ciclism Xiaomi modelo 4975 con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2024-05-24"
+    },
+    {
+        "id_producto": 82,
+        "nombre": "Rop Sony modelo 011F",
+        "marca": "Sony",
+        "precio": 744.22,
+        "descuento": 10,
+        "categoria": "Moda",
+        "subcategoria": "Ropa",
+        "stock": 50,
+        "dimensiones": {
+            "ancho": 18.4,
+            "alto": 48.2,
+            "profundidad": 4.3,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 0.79,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "WiFi 6",
+            "Bluetooth 5.0",
+            "512GB SSD",
+            "Pantalla 4K",
+            "Resistente al agua"
+        ],
+        "calificacion": 4.9,
+        "descripcion": "Rop Sony modelo 011F con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2023-06-02"
+    },
+    {
+        "id_producto": 83,
+        "nombre": "Smartphone Sony modelo C543",
+        "marca": "Sony",
+        "precio": 644.22,
+        "descuento": 15,
+        "categoria": "Electrónica",
+        "subcategoria": "Smartphones",
+        "stock": 57,
+        "dimensiones": {
+            "ancho": 11.6,
+            "alto": 26.6,
+            "profundidad": 8.9,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 4.41,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "Procesador Intel Core i7",
+            "Resistente al agua",
+            "Pantalla táctil",
+            "Carga rápida"
+        ],
+        "calificacion": 4.5,
+        "descripcion": "Smartphone Sony modelo C543 con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2023-08-24"
+    },
+    {
+        "id_producto": 84,
+        "nombre": "Ciclism Adidas modelo 471C",
+        "marca": "Adidas",
+        "precio": 619.5,
+        "descuento": 5,
+        "categoria": "Deportes",
+        "subcategoria": "Ciclismo",
+        "stock": 87,
+        "dimensiones": {
+            "ancho": 40.5,
+            "alto": 17.5,
+            "profundidad": 6.3,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 2.28,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "Carga rápida",
+            "Bluetooth 5.0",
+            "Pantalla táctil",
+            "16GB de RAM"
+        ],
+        "calificacion": 3.2,
+        "descripcion": "Ciclism Adidas modelo 471C con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2023-06-04"
+    },
+    {
+        "id_producto": 85,
+        "nombre": "Decoració Samsung modelo F830",
+        "marca": "Samsung",
+        "precio": 1749.74,
+        "descuento": 0,
+        "categoria": "Hogar",
+        "subcategoria": "Decoración",
+        "stock": 73,
+        "dimensiones": {
+            "ancho": 37.2,
+            "alto": 15.7,
+            "profundidad": 7.3,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 1.17,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "Pantalla táctil",
+            "Batería de larga duración",
+            "Carga rápida",
+            "WiFi 6"
+        ],
+        "calificacion": 4.9,
+        "descripcion": "Decoració Samsung modelo F830 con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2022-03-15"
+    },
+    {
+        "id_producto": 86,
+        "nombre": "Smartphone HP modelo EBAD",
+        "marca": "HP",
+        "precio": 417.67,
+        "descuento": 15,
+        "categoria": "Electrónica",
+        "subcategoria": "Smartphones",
+        "stock": 31,
+        "dimensiones": {
+            "ancho": 47.6,
+            "alto": 38.3,
+            "profundidad": 9.8,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 3.78,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "Bluetooth 5.0",
+            "Pantalla táctil",
+            "Carga rápida",
+            "WiFi 6"
+        ],
+        "calificacion": 4.4,
+        "descripcion": "Smartphone HP modelo EBAD con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2022-02-04"
+    },
+    {
+        "id_producto": 87,
+        "nombre": "Laptop Samsung modelo 67D7",
+        "marca": "Samsung",
+        "precio": 793.68,
+        "descuento": 10,
+        "categoria": "Electrónica",
+        "subcategoria": "Laptops",
+        "stock": 38,
+        "dimensiones": {
+            "ancho": 11.1,
+            "alto": 23.0,
+            "profundidad": 9.8,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 1.53,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "Pantalla táctil",
+            "Bluetooth 5.0",
+            "16GB de RAM",
+            "WiFi 6",
+            "512GB SSD"
+        ],
+        "calificacion": 3.1,
+        "descripcion": "Laptop Samsung modelo 67D7 con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2022-03-17"
+    },
+    {
+        "id_producto": 88,
+        "nombre": "Decoració Xiaomi modelo 7946",
+        "marca": "Xiaomi",
+        "precio": 843.34,
+        "descuento": 20,
+        "categoria": "Hogar",
+        "subcategoria": "Decoración",
+        "stock": 65,
+        "dimensiones": {
+            "ancho": 20.3,
+            "alto": 46.0,
+            "profundidad": 7.2,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 1.13,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "Resistente al agua",
+            "WiFi 6",
+            "Bluetooth 5.0",
+            "Pantalla táctil",
+            "Batería de larga duración"
+        ],
+        "calificacion": 4.7,
+        "descripcion": "Decoració Xiaomi modelo 7946 con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2023-12-01"
+    },
+    {
+        "id_producto": 89,
+        "nombre": "Fitnes Sony modelo 062C",
+        "marca": "Sony",
+        "precio": 128.89,
+        "descuento": 0,
+        "categoria": "Deportes",
+        "subcategoria": "Fitness",
+        "stock": 49,
+        "dimensiones": {
+            "ancho": 19.3,
+            "alto": 25.2,
+            "profundidad": 1.1,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 2.8,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "Resistente al agua",
+            "WiFi 6",
+            "Pantalla táctil",
+            "16GB de RAM"
+        ],
+        "calificacion": 3.3,
+        "descripcion": "Fitnes Sony modelo 062C con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2023-11-19"
+    },
+    {
+        "id_producto": 90,
+        "nombre": "Smartphone Nike modelo E7BF",
+        "marca": "Nike",
+        "precio": 906.59,
+        "descuento": 0,
+        "categoria": "Electrónica",
+        "subcategoria": "Smartphones",
+        "stock": 77,
+        "dimensiones": {
+            "ancho": 44.1,
+            "alto": 36.6,
+            "profundidad": 1.4,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 0.63,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "WiFi 6",
+            "Pantalla 4K",
+            "Carga rápida",
+            "Resistente al agua",
+            "16GB de RAM"
+        ],
+        "calificacion": 3.4,
+        "descripcion": "Smartphone Nike modelo E7BF con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2023-04-23"
+    },
+    {
+        "id_producto": 91,
+        "nombre": "Fitnes Apple modelo 4D1E",
+        "marca": "Apple",
+        "precio": 1934.04,
+        "descuento": 5,
+        "categoria": "Deportes",
+        "subcategoria": "Fitness",
+        "stock": 55,
+        "dimensiones": {
+            "ancho": 24.1,
+            "alto": 29.4,
+            "profundidad": 9.0,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 2.65,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "Carga rápida",
+            "Bluetooth 5.0",
+            "Procesador Intel Core i7",
+            "WiFi 6",
+            "Pantalla 4K"
+        ],
+        "calificacion": 4.8,
+        "descripcion": "Fitnes Apple modelo 4D1E con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2023-06-24"
+    },
+    {
+        "id_producto": 92,
+        "nombre": "Fitnes Asus modelo E9C0",
+        "marca": "Asus",
+        "precio": 1771.98,
+        "descuento": 10,
+        "categoria": "Deportes",
+        "subcategoria": "Fitness",
+        "stock": 55,
+        "dimensiones": {
+            "ancho": 40.2,
+            "alto": 27.0,
+            "profundidad": 8.9,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 2.27,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "Pantalla 4K",
+            "Bluetooth 5.0",
+            "512GB SSD",
+            "WiFi 6",
+            "Procesador Intel Core i7"
+        ],
+        "calificacion": 4.4,
+        "descripcion": "Fitnes Asus modelo E9C0 con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2022-09-06"
+    },
+    {
+        "id_producto": 93,
+        "nombre": "Smartphone Lenovo modelo FB32",
+        "marca": "Lenovo",
+        "precio": 1084.24,
+        "descuento": 5,
+        "categoria": "Electrónica",
+        "subcategoria": "Smartphones",
+        "stock": 85,
+        "dimensiones": {
+            "ancho": 17.9,
+            "alto": 48.6,
+            "profundidad": 1.3,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 4.34,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "WiFi 6",
+            "Batería de larga duración",
+            "16GB de RAM"
+        ],
+        "calificacion": 4.0,
+        "descripcion": "Smartphone Lenovo modelo FB32 con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2023-09-23"
+    },
+    {
+        "id_producto": 94,
+        "nombre": "Cocin Sony modelo 37AA",
+        "marca": "Sony",
+        "precio": 210.52,
+        "descuento": 10,
+        "categoria": "Hogar",
+        "subcategoria": "Cocina",
+        "stock": 74,
+        "dimensiones": {
+            "ancho": 21.1,
+            "alto": 14.7,
+            "profundidad": 4.3,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 1.51,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "Batería de larga duración",
+            "Procesador Intel Core i7",
+            "WiFi 6"
+        ],
+        "calificacion": 3.0,
+        "descripcion": "Cocin Sony modelo 37AA con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2023-04-22"
+    },
+    {
+        "id_producto": 95,
+        "nombre": "Calzad Nike modelo B57F",
+        "marca": "Nike",
+        "precio": 651.13,
+        "descuento": 0,
+        "categoria": "Moda",
+        "subcategoria": "Calzado",
+        "stock": 93,
+        "dimensiones": {
+            "ancho": 17.9,
+            "alto": 35.0,
+            "profundidad": 3.1,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 0.62,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "Pantalla táctil",
+            "Carga rápida",
+            "16GB de RAM",
+            "Resistente al agua",
+            "Procesador Intel Core i7"
+        ],
+        "calificacion": 3.1,
+        "descripcion": "Calzad Nike modelo B57F con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2023-04-06"
+    },
+    {
+        "id_producto": 96,
+        "nombre": "Smartphone Samsung modelo B195",
+        "marca": "Samsung",
+        "precio": 1457.33,
+        "descuento": 0,
+        "categoria": "Electrónica",
+        "subcategoria": "Smartphones",
+        "stock": 13,
+        "dimensiones": {
+            "ancho": 33.6,
+            "alto": 17.3,
+            "profundidad": 7.1,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 1.45,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "Pantalla táctil",
+            "Bluetooth 5.0",
+            "Resistente al agua",
+            "512GB SSD"
+        ],
+        "calificacion": 4.5,
+        "descripcion": "Smartphone Samsung modelo B195 con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2024-03-05"
+    },
+    {
+        "id_producto": 97,
+        "nombre": "Smartphone Adidas modelo 906D",
+        "marca": "Adidas",
+        "precio": 512.27,
+        "descuento": 10,
+        "categoria": "Electrónica",
+        "subcategoria": "Smartphones",
+        "stock": 84,
+        "dimensiones": {
+            "ancho": 31.9,
+            "alto": 41.1,
+            "profundidad": 3.9,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 3.33,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "Carga rápida",
+            "512GB SSD",
+            "Pantalla 4K"
+        ],
+        "calificacion": 3.0,
+        "descripcion": "Smartphone Adidas modelo 906D con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2022-02-02"
+    },
+    {
+        "id_producto": 98,
+        "nombre": "Accesorio Nike modelo 335F",
+        "marca": "Nike",
+        "precio": 40.45,
+        "descuento": 0,
+        "categoria": "Moda",
+        "subcategoria": "Accesorios",
+        "stock": 93,
+        "dimensiones": {
+            "ancho": 11.6,
+            "alto": 35.3,
+            "profundidad": 1.6,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 0.86,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "Resistente al agua",
+            "Pantalla 4K",
+            "16GB de RAM",
+            "Procesador Intel Core i7"
+        ],
+        "calificacion": 4.1,
+        "descripcion": "Accesorio Nike modelo 335F con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2022-03-09"
+    },
+    {
+        "id_producto": 99,
+        "nombre": "Cocin Apple modelo 1E5A",
+        "marca": "Apple",
+        "precio": 1324.49,
+        "descuento": 20,
+        "categoria": "Hogar",
+        "subcategoria": "Cocina",
+        "stock": 42,
+        "dimensiones": {
+            "ancho": 22.2,
+            "alto": 10.2,
+            "profundidad": 9.3,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 3.2,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "Batería de larga duración",
+            "512GB SSD",
+            "16GB de RAM",
+            "Resistente al agua",
+            "Pantalla 4K"
+        ],
+        "calificacion": 5.0,
+        "descripcion": "Cocin Apple modelo 1E5A con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2023-09-04"
+    },
+    {
+        "id_producto": 100,
+        "nombre": "Electrodoméstico Adidas modelo 62C0",
+        "marca": "Adidas",
+        "precio": 972.28,
+        "descuento": 15,
+        "categoria": "Hogar",
+        "subcategoria": "Electrodomésticos",
+        "stock": 78,
+        "dimensiones": {
+            "ancho": 24.2,
+            "alto": 48.4,
+            "profundidad": 9.2,
+            "unidad": "cm"
+        },
+        "peso": {
+            "valor": 3.65,
+            "unidad": "kg"
+        },
+        "caracteristicas": [
+            "Pantalla 4K",
+            "Resistente al agua",
+            "Procesador Intel Core i7",
+            "WiFi 6",
+            "Pantalla táctil"
+        ],
+        "calificacion": 5.0,
+        "descripcion": "Electrodoméstico Adidas modelo 62C0 con características avanzadas para usuarios exigentes.",
+        "fecha_lanzamiento": "2023-02-13"
+    }
+]

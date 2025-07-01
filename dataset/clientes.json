@@ -1,0 +1,1202 @@
+[
+    {
+        "id_cliente": 1,
+        "nombre": "Pedro López",
+        "email": "pedro.lópez1@mail.com",
+        "telefono": "555-8985",
+        "direccion": {
+            "calle": "Calle Libertad 317",
+            "ciudad": "Santiago",
+            "pais": "Argentina",
+            "codigo_postal": "98279"
+        }
+    },
+    {
+        "id_cliente": 2,
+        "nombre": "Miguel López",
+        "email": "miguel.lópez2@mail.com",
+        "telefono": "555-8447",
+        "direccion": {
+            "calle": "Calle Independencia 44",
+            "ciudad": "Bogotá",
+            "pais": "Chile",
+            "codigo_postal": "15856"
+        }
+    },
+    {
+        "id_cliente": 3,
+        "nombre": "María Hernández",
+        "email": "maría.hernández3@mail.com",
+        "telefono": "555-9890",
+        "direccion": {
+            "calle": "Calle Libertad 39",
+            "ciudad": "Lima",
+            "pais": "Perú",
+            "codigo_postal": "70209"
+        }
+    },
+    {
+        "id_cliente": 4,
+        "nombre": "Luis Martínez",
+        "email": "luis.martínez4@mail.com",
+        "telefono": "555-6672",
+        "direccion": {
+            "calle": "Calle Libertad 699",
+            "ciudad": "Buenos Aires",
+            "pais": "Colombia",
+            "codigo_postal": "22192"
+        }
+    },
+    {
+        "id_cliente": 5,
+        "nombre": "Pedro Flores",
+        "email": "pedro.flores5@mail.com",
+        "telefono": "555-2131",
+        "direccion": {
+            "calle": "Calle Real 713",
+            "ciudad": "Lima",
+            "pais": "Chile",
+            "codigo_postal": "36784"
+        }
+    },
+    {
+        "id_cliente": 6,
+        "nombre": "Luis Torres",
+        "email": "luis.torres6@mail.com",
+        "telefono": "555-3712",
+        "direccion": {
+            "calle": "Calle Falsa 718",
+            "ciudad": "Lima",
+            "pais": "Chile",
+            "codigo_postal": "72479"
+        }
+    },
+    {
+        "id_cliente": 7,
+        "nombre": "Ana García",
+        "email": "ana.garcía7@mail.com",
+        "telefono": "555-1299",
+        "direccion": {
+            "calle": "Calle Independencia 758",
+            "ciudad": "Bogotá",
+            "pais": "Perú",
+            "codigo_postal": "33296"
+        }
+    },
+    {
+        "id_cliente": 8,
+        "nombre": "Carlos Hernández",
+        "email": "carlos.hernández8@mail.com",
+        "telefono": "555-2551",
+        "direccion": {
+            "calle": "Calle Libertad 28",
+            "ciudad": "Ciudad de México",
+            "pais": "México",
+            "codigo_postal": "90321"
+        }
+    },
+    {
+        "id_cliente": 9,
+        "nombre": "Ana González",
+        "email": "ana.gonzález9@mail.com",
+        "telefono": "555-1436",
+        "direccion": {
+            "calle": "Calle Libertad 386",
+            "ciudad": "Lima",
+            "pais": "Perú",
+            "codigo_postal": "91453"
+        }
+    },
+    {
+        "id_cliente": 10,
+        "nombre": "Juan González",
+        "email": "juan.gonzález10@mail.com",
+        "telefono": "555-3623",
+        "direccion": {
+            "calle": "Calle Independencia 974",
+            "ciudad": "Bogotá",
+            "pais": "Chile",
+            "codigo_postal": "76278"
+        }
+    },
+    {
+        "id_cliente": 11,
+        "nombre": "Sofía Hernández",
+        "email": "sofía.hernández11@mail.com",
+        "telefono": "555-5888",
+        "direccion": {
+            "calle": "Calle Independencia 417",
+            "ciudad": "Bogotá",
+            "pais": "Chile",
+            "codigo_postal": "95139"
+        }
+    },
+    {
+        "id_cliente": 12,
+        "nombre": "Pedro Martínez",
+        "email": "pedro.martínez12@mail.com",
+        "telefono": "555-2174",
+        "direccion": {
+            "calle": "Calle Real 546",
+            "ciudad": "Santiago",
+            "pais": "Perú",
+            "codigo_postal": "26347"
+        }
+    },
+    {
+        "id_cliente": 13,
+        "nombre": "Lucía Pérez",
+        "email": "lucía.pérez13@mail.com",
+        "telefono": "555-8622",
+        "direccion": {
+            "calle": "Calle Libertad 45",
+            "ciudad": "Buenos Aires",
+            "pais": "Argentina",
+            "codigo_postal": "40913"
+        }
+    },
+    {
+        "id_cliente": 14,
+        "nombre": "Sofía Hernández",
+        "email": "sofía.hernández14@mail.com",
+        "telefono": "555-6754",
+        "direccion": {
+            "calle": "Calle Real 40",
+            "ciudad": "Buenos Aires",
+            "pais": "Argentina",
+            "codigo_postal": "64804"
+        }
+    },
+    {
+        "id_cliente": 15,
+        "nombre": "Luis López",
+        "email": "luis.lópez15@mail.com",
+        "telefono": "555-8200",
+        "direccion": {
+            "calle": "Calle Falsa 451",
+            "ciudad": "Buenos Aires",
+            "pais": "Argentina",
+            "codigo_postal": "68411"
+        }
+    },
+    {
+        "id_cliente": 16,
+        "nombre": "Ana Ramírez",
+        "email": "ana.ramírez16@mail.com",
+        "telefono": "555-9638",
+        "direccion": {
+            "calle": "Calle Falsa 279",
+            "ciudad": "Ciudad de México",
+            "pais": "Argentina",
+            "codigo_postal": "16565"
+        }
+    },
+    {
+        "id_cliente": 17,
+        "nombre": "María Torres",
+        "email": "maría.torres17@mail.com",
+        "telefono": "555-6033",
+        "direccion": {
+            "calle": "Calle Real 310",
+            "ciudad": "Buenos Aires",
+            "pais": "Colombia",
+            "codigo_postal": "58784"
+        }
+    },
+    {
+        "id_cliente": 18,
+        "nombre": "Elena Flores",
+        "email": "elena.flores18@mail.com",
+        "telefono": "555-2075",
+        "direccion": {
+            "calle": "Calle Independencia 589",
+            "ciudad": "Ciudad de México",
+            "pais": "Chile",
+            "codigo_postal": "69176"
+        }
+    },
+    {
+        "id_cliente": 19,
+        "nombre": "Sofía García",
+        "email": "sofía.garcía19@mail.com",
+        "telefono": "555-3769",
+        "direccion": {
+            "calle": "Calle Falsa 204",
+            "ciudad": "Santiago",
+            "pais": "Colombia",
+            "codigo_postal": "19825"
+        }
+    },
+    {
+        "id_cliente": 20,
+        "nombre": "Ana López",
+        "email": "ana.lópez20@mail.com",
+        "telefono": "555-4021",
+        "direccion": {
+            "calle": "Calle Los Almendros 632",
+            "ciudad": "Lima",
+            "pais": "Colombia",
+            "codigo_postal": "67171"
+        }
+    },
+    {
+        "id_cliente": 21,
+        "nombre": "Juan Torres",
+        "email": "juan.torres21@mail.com",
+        "telefono": "555-9656",
+        "direccion": {
+            "calle": "Calle Independencia 892",
+            "ciudad": "Buenos Aires",
+            "pais": "México",
+            "codigo_postal": "52432"
+        }
+    },
+    {
+        "id_cliente": 22,
+        "nombre": "Miguel González",
+        "email": "miguel.gonzález22@mail.com",
+        "telefono": "555-5432",
+        "direccion": {
+            "calle": "Calle Los Almendros 559",
+            "ciudad": "Bogotá",
+            "pais": "Argentina",
+            "codigo_postal": "72721"
+        }
+    },
+    {
+        "id_cliente": 23,
+        "nombre": "Carlos Hernández",
+        "email": "carlos.hernández23@mail.com",
+        "telefono": "555-1759",
+        "direccion": {
+            "calle": "Calle Los Almendros 386",
+            "ciudad": "Santiago",
+            "pais": "Colombia",
+            "codigo_postal": "32668"
+        }
+    },
+    {
+        "id_cliente": 24,
+        "nombre": "Juan Pérez",
+        "email": "juan.pérez24@mail.com",
+        "telefono": "555-6040",
+        "direccion": {
+            "calle": "Calle Independencia 634",
+            "ciudad": "Ciudad de México",
+            "pais": "México",
+            "codigo_postal": "45762"
+        }
+    },
+    {
+        "id_cliente": 25,
+        "nombre": "Ana Torres",
+        "email": "ana.torres25@mail.com",
+        "telefono": "555-7680",
+        "direccion": {
+            "calle": "Calle Falsa 277",
+            "ciudad": "Buenos Aires",
+            "pais": "Perú",
+            "codigo_postal": "54247"
+        }
+    },
+    {
+        "id_cliente": 26,
+        "nombre": "Miguel González",
+        "email": "miguel.gonzález26@mail.com",
+        "telefono": "555-2840",
+        "direccion": {
+            "calle": "Calle Independencia 326",
+            "ciudad": "Bogotá",
+            "pais": "Colombia",
+            "codigo_postal": "18396"
+        }
+    },
+    {
+        "id_cliente": 27,
+        "nombre": "Juan Torres",
+        "email": "juan.torres27@mail.com",
+        "telefono": "555-9241",
+        "direccion": {
+            "calle": "Calle Libertad 497",
+            "ciudad": "Santiago",
+            "pais": "México",
+            "codigo_postal": "61377"
+        }
+    },
+    {
+        "id_cliente": 28,
+        "nombre": "Juan Ramírez",
+        "email": "juan.ramírez28@mail.com",
+        "telefono": "555-4924",
+        "direccion": {
+            "calle": "Calle Los Almendros 144",
+            "ciudad": "Buenos Aires",
+            "pais": "Argentina",
+            "codigo_postal": "19811"
+        }
+    },
+    {
+        "id_cliente": 29,
+        "nombre": "Lucía López",
+        "email": "lucía.lópez29@mail.com",
+        "telefono": "555-7648",
+        "direccion": {
+            "calle": "Calle Real 167",
+            "ciudad": "Buenos Aires",
+            "pais": "Perú",
+            "codigo_postal": "88971"
+        }
+    },
+    {
+        "id_cliente": 30,
+        "nombre": "Lucía Flores",
+        "email": "lucía.flores30@mail.com",
+        "telefono": "555-9584",
+        "direccion": {
+            "calle": "Calle Independencia 806",
+            "ciudad": "Ciudad de México",
+            "pais": "Colombia",
+            "codigo_postal": "92265"
+        }
+    },
+    {
+        "id_cliente": 31,
+        "nombre": "Elena Flores",
+        "email": "elena.flores31@mail.com",
+        "telefono": "555-5083",
+        "direccion": {
+            "calle": "Calle Libertad 971",
+            "ciudad": "Buenos Aires",
+            "pais": "Perú",
+            "codigo_postal": "19969"
+        }
+    },
+    {
+        "id_cliente": 32,
+        "nombre": "Miguel Ramírez",
+        "email": "miguel.ramírez32@mail.com",
+        "telefono": "555-1503",
+        "direccion": {
+            "calle": "Calle Falsa 947",
+            "ciudad": "Ciudad de México",
+            "pais": "México",
+            "codigo_postal": "11467"
+        }
+    },
+    {
+        "id_cliente": 33,
+        "nombre": "Elena Rodríguez",
+        "email": "elena.rodríguez33@mail.com",
+        "telefono": "555-1408",
+        "direccion": {
+            "calle": "Calle Libertad 95",
+            "ciudad": "Lima",
+            "pais": "México",
+            "codigo_postal": "61731"
+        }
+    },
+    {
+        "id_cliente": 34,
+        "nombre": "Ana Martínez",
+        "email": "ana.martínez34@mail.com",
+        "telefono": "555-4798",
+        "direccion": {
+            "calle": "Calle Los Almendros 857",
+            "ciudad": "Buenos Aires",
+            "pais": "México",
+            "codigo_postal": "40071"
+        }
+    },
+    {
+        "id_cliente": 35,
+        "nombre": "Ana Ramírez",
+        "email": "ana.ramírez35@mail.com",
+        "telefono": "555-9315",
+        "direccion": {
+            "calle": "Calle Los Almendros 514",
+            "ciudad": "Ciudad de México",
+            "pais": "Perú",
+            "codigo_postal": "61855"
+        }
+    },
+    {
+        "id_cliente": 36,
+        "nombre": "Carlos López",
+        "email": "carlos.lópez36@mail.com",
+        "telefono": "555-8713",
+        "direccion": {
+            "calle": "Calle Real 520",
+            "ciudad": "Santiago",
+            "pais": "Argentina",
+            "codigo_postal": "26891"
+        }
+    },
+    {
+        "id_cliente": 37,
+        "nombre": "Luis Rodríguez",
+        "email": "luis.rodríguez37@mail.com",
+        "telefono": "555-7098",
+        "direccion": {
+            "calle": "Calle Real 557",
+            "ciudad": "Santiago",
+            "pais": "Colombia",
+            "codigo_postal": "14018"
+        }
+    },
+    {
+        "id_cliente": 38,
+        "nombre": "Pedro Flores",
+        "email": "pedro.flores38@mail.com",
+        "telefono": "555-1486",
+        "direccion": {
+            "calle": "Calle Real 524",
+            "ciudad": "Buenos Aires",
+            "pais": "México",
+            "codigo_postal": "96669"
+        }
+    },
+    {
+        "id_cliente": 39,
+        "nombre": "Lucía López",
+        "email": "lucía.lópez39@mail.com",
+        "telefono": "555-6621",
+        "direccion": {
+            "calle": "Calle Real 697",
+            "ciudad": "Lima",
+            "pais": "Argentina",
+            "codigo_postal": "36916"
+        }
+    },
+    {
+        "id_cliente": 40,
+        "nombre": "Luis Pérez",
+        "email": "luis.pérez40@mail.com",
+        "telefono": "555-5546",
+        "direccion": {
+            "calle": "Calle Independencia 42",
+            "ciudad": "Lima",
+            "pais": "México",
+            "codigo_postal": "53652"
+        }
+    },
+    {
+        "id_cliente": 41,
+        "nombre": "Elena González",
+        "email": "elena.gonzález41@mail.com",
+        "telefono": "555-1691",
+        "direccion": {
+            "calle": "Calle Falsa 271",
+            "ciudad": "Santiago",
+            "pais": "Chile",
+            "codigo_postal": "13424"
+        }
+    },
+    {
+        "id_cliente": 42,
+        "nombre": "Elena Pérez",
+        "email": "elena.pérez42@mail.com",
+        "telefono": "555-7136",
+        "direccion": {
+            "calle": "Calle Real 160",
+            "ciudad": "Ciudad de México",
+            "pais": "Colombia",
+            "codigo_postal": "32759"
+        }
+    },
+    {
+        "id_cliente": 43,
+        "nombre": "Luis Flores",
+        "email": "luis.flores43@mail.com",
+        "telefono": "555-2582",
+        "direccion": {
+            "calle": "Calle Independencia 437",
+            "ciudad": "Santiago",
+            "pais": "Chile",
+            "codigo_postal": "29294"
+        }
+    },
+    {
+        "id_cliente": 44,
+        "nombre": "Juan Ramírez",
+        "email": "juan.ramírez44@mail.com",
+        "telefono": "555-9504",
+        "direccion": {
+            "calle": "Calle Los Almendros 376",
+            "ciudad": "Santiago",
+            "pais": "Chile",
+            "codigo_postal": "23584"
+        }
+    },
+    {
+        "id_cliente": 45,
+        "nombre": "Pedro Pérez",
+        "email": "pedro.pérez45@mail.com",
+        "telefono": "555-4455",
+        "direccion": {
+            "calle": "Calle Falsa 475",
+            "ciudad": "Lima",
+            "pais": "Chile",
+            "codigo_postal": "94009"
+        }
+    },
+    {
+        "id_cliente": 46,
+        "nombre": "Ana García",
+        "email": "ana.garcía46@mail.com",
+        "telefono": "555-6622",
+        "direccion": {
+            "calle": "Calle Independencia 469",
+            "ciudad": "Bogotá",
+            "pais": "Argentina",
+            "codigo_postal": "58893"
+        }
+    },
+    {
+        "id_cliente": 47,
+        "nombre": "Pedro Hernández",
+        "email": "pedro.hernández47@mail.com",
+        "telefono": "555-3446",
+        "direccion": {
+            "calle": "Calle Libertad 453",
+            "ciudad": "Ciudad de México",
+            "pais": "Argentina",
+            "codigo_postal": "54424"
+        }
+    },
+    {
+        "id_cliente": 48,
+        "nombre": "Ana González",
+        "email": "ana.gonzález48@mail.com",
+        "telefono": "555-4853",
+        "direccion": {
+            "calle": "Calle Real 84",
+            "ciudad": "Lima",
+            "pais": "Perú",
+            "codigo_postal": "34364"
+        }
+    },
+    {
+        "id_cliente": 49,
+        "nombre": "Sofía López",
+        "email": "sofía.lópez49@mail.com",
+        "telefono": "555-7832",
+        "direccion": {
+            "calle": "Calle Real 896",
+            "ciudad": "Santiago",
+            "pais": "Perú",
+            "codigo_postal": "69292"
+        }
+    },
+    {
+        "id_cliente": 50,
+        "nombre": "Carlos López",
+        "email": "carlos.lópez50@mail.com",
+        "telefono": "555-5245",
+        "direccion": {
+            "calle": "Calle Independencia 497",
+            "ciudad": "Bogotá",
+            "pais": "Perú",
+            "codigo_postal": "17216"
+        }
+    },
+    {
+        "id_cliente": 51,
+        "nombre": "Lucía Pérez",
+        "email": "lucía.pérez51@mail.com",
+        "telefono": "555-4969",
+        "direccion": {
+            "calle": "Calle Real 676",
+            "ciudad": "Lima",
+            "pais": "Argentina",
+            "codigo_postal": "20994"
+        }
+    },
+    {
+        "id_cliente": 52,
+        "nombre": "María Pérez",
+        "email": "maría.pérez52@mail.com",
+        "telefono": "555-8593",
+        "direccion": {
+            "calle": "Calle Los Almendros 775",
+            "ciudad": "Santiago",
+            "pais": "Perú",
+            "codigo_postal": "66658"
+        }
+    },
+    {
+        "id_cliente": 53,
+        "nombre": "Sofía Martínez",
+        "email": "sofía.martínez53@mail.com",
+        "telefono": "555-2302",
+        "direccion": {
+            "calle": "Calle Falsa 834",
+            "ciudad": "Ciudad de México",
+            "pais": "Chile",
+            "codigo_postal": "62232"
+        }
+    },
+    {
+        "id_cliente": 54,
+        "nombre": "María Rodríguez",
+        "email": "maría.rodríguez54@mail.com",
+        "telefono": "555-2622",
+        "direccion": {
+            "calle": "Calle Los Almendros 927",
+            "ciudad": "Buenos Aires",
+            "pais": "Argentina",
+            "codigo_postal": "22269"
+        }
+    },
+    {
+        "id_cliente": 55,
+        "nombre": "Miguel Martínez",
+        "email": "miguel.martínez55@mail.com",
+        "telefono": "555-8906",
+        "direccion": {
+            "calle": "Calle Libertad 925",
+            "ciudad": "Santiago",
+            "pais": "Chile",
+            "codigo_postal": "62692"
+        }
+    },
+    {
+        "id_cliente": 56,
+        "nombre": "Elena López",
+        "email": "elena.lópez56@mail.com",
+        "telefono": "555-1254",
+        "direccion": {
+            "calle": "Calle Falsa 108",
+            "ciudad": "Ciudad de México",
+            "pais": "Argentina",
+            "codigo_postal": "26468"
+        }
+    },
+    {
+        "id_cliente": 57,
+        "nombre": "Miguel Torres",
+        "email": "miguel.torres57@mail.com",
+        "telefono": "555-7519",
+        "direccion": {
+            "calle": "Calle Libertad 637",
+            "ciudad": "Ciudad de México",
+            "pais": "México",
+            "codigo_postal": "46558"
+        }
+    },
+    {
+        "id_cliente": 58,
+        "nombre": "Miguel González",
+        "email": "miguel.gonzález58@mail.com",
+        "telefono": "555-2171",
+        "direccion": {
+            "calle": "Calle Independencia 857",
+            "ciudad": "Buenos Aires",
+            "pais": "Argentina",
+            "codigo_postal": "47114"
+        }
+    },
+    {
+        "id_cliente": 59,
+        "nombre": "Sofía López",
+        "email": "sofía.lópez59@mail.com",
+        "telefono": "555-3361",
+        "direccion": {
+            "calle": "Calle Real 602",
+            "ciudad": "Santiago",
+            "pais": "Argentina",
+            "codigo_postal": "72014"
+        }
+    },
+    {
+        "id_cliente": 60,
+        "nombre": "Pedro López",
+        "email": "pedro.lópez60@mail.com",
+        "telefono": "555-2908",
+        "direccion": {
+            "calle": "Calle Falsa 905",
+            "ciudad": "Buenos Aires",
+            "pais": "Perú",
+            "codigo_postal": "53507"
+        }
+    },
+    {
+        "id_cliente": 61,
+        "nombre": "María López",
+        "email": "maría.lópez61@mail.com",
+        "telefono": "555-6975",
+        "direccion": {
+            "calle": "Calle Independencia 501",
+            "ciudad": "Ciudad de México",
+            "pais": "Chile",
+            "codigo_postal": "86835"
+        }
+    },
+    {
+        "id_cliente": 62,
+        "nombre": "Luis Martínez",
+        "email": "luis.martínez62@mail.com",
+        "telefono": "555-8171",
+        "direccion": {
+            "calle": "Calle Los Almendros 906",
+            "ciudad": "Ciudad de México",
+            "pais": "Perú",
+            "codigo_postal": "44400"
+        }
+    },
+    {
+        "id_cliente": 63,
+        "nombre": "Ana García",
+        "email": "ana.garcía63@mail.com",
+        "telefono": "555-5203",
+        "direccion": {
+            "calle": "Calle Falsa 43",
+            "ciudad": "Ciudad de México",
+            "pais": "México",
+            "codigo_postal": "35083"
+        }
+    },
+    {
+        "id_cliente": 64,
+        "nombre": "Luis Torres",
+        "email": "luis.torres64@mail.com",
+        "telefono": "555-5383",
+        "direccion": {
+            "calle": "Calle Independencia 949",
+            "ciudad": "Ciudad de México",
+            "pais": "Chile",
+            "codigo_postal": "23283"
+        }
+    },
+    {
+        "id_cliente": 65,
+        "nombre": "Lucía Torres",
+        "email": "lucía.torres65@mail.com",
+        "telefono": "555-5859",
+        "direccion": {
+            "calle": "Calle Los Almendros 556",
+            "ciudad": "Ciudad de México",
+            "pais": "Argentina",
+            "codigo_postal": "62714"
+        }
+    },
+    {
+        "id_cliente": 66,
+        "nombre": "Juan López",
+        "email": "juan.lópez66@mail.com",
+        "telefono": "555-7316",
+        "direccion": {
+            "calle": "Calle Independencia 217",
+            "ciudad": "Ciudad de México",
+            "pais": "Argentina",
+            "codigo_postal": "72208"
+        }
+    },
+    {
+        "id_cliente": 67,
+        "nombre": "Lucía Flores",
+        "email": "lucía.flores67@mail.com",
+        "telefono": "555-8508",
+        "direccion": {
+            "calle": "Calle Real 975",
+            "ciudad": "Santiago",
+            "pais": "Colombia",
+            "codigo_postal": "97930"
+        }
+    },
+    {
+        "id_cliente": 68,
+        "nombre": "Juan Flores",
+        "email": "juan.flores68@mail.com",
+        "telefono": "555-1433",
+        "direccion": {
+            "calle": "Calle Independencia 427",
+            "ciudad": "Lima",
+            "pais": "Chile",
+            "codigo_postal": "75231"
+        }
+    },
+    {
+        "id_cliente": 69,
+        "nombre": "Lucía López",
+        "email": "lucía.lópez69@mail.com",
+        "telefono": "555-5106",
+        "direccion": {
+            "calle": "Calle Independencia 183",
+            "ciudad": "Ciudad de México",
+            "pais": "Argentina",
+            "codigo_postal": "41950"
+        }
+    },
+    {
+        "id_cliente": 70,
+        "nombre": "Lucía López",
+        "email": "lucía.lópez70@mail.com",
+        "telefono": "555-4816",
+        "direccion": {
+            "calle": "Calle Libertad 591",
+            "ciudad": "Buenos Aires",
+            "pais": "Argentina",
+            "codigo_postal": "90404"
+        }
+    },
+    {
+        "id_cliente": 71,
+        "nombre": "María Ramírez",
+        "email": "maría.ramírez71@mail.com",
+        "telefono": "555-6813",
+        "direccion": {
+            "calle": "Calle Los Almendros 133",
+            "ciudad": "Buenos Aires",
+            "pais": "Argentina",
+            "codigo_postal": "23014"
+        }
+    },
+    {
+        "id_cliente": 72,
+        "nombre": "Lucía Rodríguez",
+        "email": "lucía.rodríguez72@mail.com",
+        "telefono": "555-9101",
+        "direccion": {
+            "calle": "Calle Real 149",
+            "ciudad": "Bogotá",
+            "pais": "Colombia",
+            "codigo_postal": "55571"
+        }
+    },
+    {
+        "id_cliente": 73,
+        "nombre": "María Hernández",
+        "email": "maría.hernández73@mail.com",
+        "telefono": "555-5830",
+        "direccion": {
+            "calle": "Calle Independencia 609",
+            "ciudad": "Buenos Aires",
+            "pais": "Chile",
+            "codigo_postal": "32926"
+        }
+    },
+    {
+        "id_cliente": 74,
+        "nombre": "Ana García",
+        "email": "ana.garcía74@mail.com",
+        "telefono": "555-4338",
+        "direccion": {
+            "calle": "Calle Libertad 815",
+            "ciudad": "Buenos Aires",
+            "pais": "Argentina",
+            "codigo_postal": "64795"
+        }
+    },
+    {
+        "id_cliente": 75,
+        "nombre": "Pedro Rodríguez",
+        "email": "pedro.rodríguez75@mail.com",
+        "telefono": "555-7491",
+        "direccion": {
+            "calle": "Calle Los Almendros 228",
+            "ciudad": "Lima",
+            "pais": "Argentina",
+            "codigo_postal": "65168"
+        }
+    },
+    {
+        "id_cliente": 76,
+        "nombre": "Ana López",
+        "email": "ana.lópez76@mail.com",
+        "telefono": "555-2454",
+        "direccion": {
+            "calle": "Calle Real 519",
+            "ciudad": "Bogotá",
+            "pais": "Colombia",
+            "codigo_postal": "60752"
+        }
+    },
+    {
+        "id_cliente": 77,
+        "nombre": "María Torres",
+        "email": "maría.torres77@mail.com",
+        "telefono": "555-1935",
+        "direccion": {
+            "calle": "Calle Real 468",
+            "ciudad": "Santiago",
+            "pais": "Colombia",
+            "codigo_postal": "10552"
+        }
+    },
+    {
+        "id_cliente": 78,
+        "nombre": "Ana Hernández",
+        "email": "ana.hernández78@mail.com",
+        "telefono": "555-9885",
+        "direccion": {
+            "calle": "Calle Real 895",
+            "ciudad": "Lima",
+            "pais": "Chile",
+            "codigo_postal": "10134"
+        }
+    },
+    {
+        "id_cliente": 79,
+        "nombre": "María Flores",
+        "email": "maría.flores79@mail.com",
+        "telefono": "555-3890",
+        "direccion": {
+            "calle": "Calle Libertad 467",
+            "ciudad": "Buenos Aires",
+            "pais": "Chile",
+            "codigo_postal": "40345"
+        }
+    },
+    {
+        "id_cliente": 80,
+        "nombre": "Pedro Rodríguez",
+        "email": "pedro.rodríguez80@mail.com",
+        "telefono": "555-8131",
+        "direccion": {
+            "calle": "Calle Independencia 214",
+            "ciudad": "Buenos Aires",
+            "pais": "Chile",
+            "codigo_postal": "86058"
+        }
+    },
+    {
+        "id_cliente": 81,
+        "nombre": "Luis Rodríguez",
+        "email": "luis.rodríguez81@mail.com",
+        "telefono": "555-7310",
+        "direccion": {
+            "calle": "Calle Real 207",
+            "ciudad": "Buenos Aires",
+            "pais": "Argentina",
+            "codigo_postal": "57589"
+        }
+    },
+    {
+        "id_cliente": 82,
+        "nombre": "Juan Martínez",
+        "email": "juan.martínez82@mail.com",
+        "telefono": "555-7675",
+        "direccion": {
+            "calle": "Calle Real 73",
+            "ciudad": "Buenos Aires",
+            "pais": "Chile",
+            "codigo_postal": "14329"
+        }
+    },
+    {
+        "id_cliente": 83,
+        "nombre": "Sofía Rodríguez",
+        "email": "sofía.rodríguez83@mail.com",
+        "telefono": "555-2849",
+        "direccion": {
+            "calle": "Calle Falsa 714",
+            "ciudad": "Lima",
+            "pais": "Perú",
+            "codigo_postal": "36706"
+        }
+    },
+    {
+        "id_cliente": 84,
+        "nombre": "Elena García",
+        "email": "elena.garcía84@mail.com",
+        "telefono": "555-3844",
+        "direccion": {
+            "calle": "Calle Los Almendros 532",
+            "ciudad": "Buenos Aires",
+            "pais": "Colombia",
+            "codigo_postal": "44657"
+        }
+    },
+    {
+        "id_cliente": 85,
+        "nombre": "Sofía Rodríguez",
+        "email": "sofía.rodríguez85@mail.com",
+        "telefono": "555-9639",
+        "direccion": {
+            "calle": "Calle Los Almendros 840",
+            "ciudad": "Lima",
+            "pais": "Chile",
+            "codigo_postal": "62690"
+        }
+    },
+    {
+        "id_cliente": 86,
+        "nombre": "Ana Flores",
+        "email": "ana.flores86@mail.com",
+        "telefono": "555-2806",
+        "direccion": {
+            "calle": "Calle Libertad 468",
+            "ciudad": "Buenos Aires",
+            "pais": "Chile",
+            "codigo_postal": "34068"
+        }
+    },
+    {
+        "id_cliente": 87,
+        "nombre": "Pedro Martínez",
+        "email": "pedro.martínez87@mail.com",
+        "telefono": "555-5658",
+        "direccion": {
+            "calle": "Calle Libertad 777",
+            "ciudad": "Bogotá",
+            "pais": "Argentina",
+            "codigo_postal": "15652"
+        }
+    },
+    {
+        "id_cliente": 88,
+        "nombre": "María Flores",
+        "email": "maría.flores88@mail.com",
+        "telefono": "555-5333",
+        "direccion": {
+            "calle": "Calle Falsa 841",
+            "ciudad": "Buenos Aires",
+            "pais": "Perú",
+            "codigo_postal": "32533"
+        }
+    },
+    {
+        "id_cliente": 89,
+        "nombre": "Pedro Flores",
+        "email": "pedro.flores89@mail.com",
+        "telefono": "555-2487",
+        "direccion": {
+            "calle": "Calle Real 477",
+            "ciudad": "Lima",
+            "pais": "Perú",
+            "codigo_postal": "13144"
+        }
+    },
+    {
+        "id_cliente": 90,
+        "nombre": "Carlos Rodríguez",
+        "email": "carlos.rodríguez90@mail.com",
+        "telefono": "555-9206",
+        "direccion": {
+            "calle": "Calle Libertad 733",
+            "ciudad": "Lima",
+            "pais": "Argentina",
+            "codigo_postal": "45821"
+        }
+    },
+    {
+        "id_cliente": 91,
+        "nombre": "Ana Torres",
+        "email": "ana.torres91@mail.com",
+        "telefono": "555-6246",
+        "direccion": {
+            "calle": "Calle Libertad 496",
+            "ciudad": "Ciudad de México",
+            "pais": "Argentina",
+            "codigo_postal": "85902"
+        }
+    },
+    {
+        "id_cliente": 92,
+        "nombre": "Sofía Ramírez",
+        "email": "sofía.ramírez92@mail.com",
+        "telefono": "555-8038",
+        "direccion": {
+            "calle": "Calle Libertad 895",
+            "ciudad": "Santiago",
+            "pais": "Argentina",
+            "codigo_postal": "53428"
+        }
+    },
+    {
+        "id_cliente": 93,
+        "nombre": "María Martínez",
+        "email": "maría.martínez93@mail.com",
+        "telefono": "555-7651",
+        "direccion": {
+            "calle": "Calle Falsa 171",
+            "ciudad": "Santiago",
+            "pais": "Argentina",
+            "codigo_postal": "60095"
+        }
+    },
+    {
+        "id_cliente": 94,
+        "nombre": "María García",
+        "email": "maría.garcía94@mail.com",
+        "telefono": "555-5879",
+        "direccion": {
+            "calle": "Calle Libertad 212",
+            "ciudad": "Santiago",
+            "pais": "Chile",
+            "codigo_postal": "92388"
+        }
+    },
+    {
+        "id_cliente": 95,
+        "nombre": "Sofía Hernández",
+        "email": "sofía.hernández95@mail.com",
+        "telefono": "555-3201",
+        "direccion": {
+            "calle": "Calle Independencia 517",
+            "ciudad": "Lima",
+            "pais": "Chile",
+            "codigo_postal": "25573"
+        }
+    },
+    {
+        "id_cliente": 96,
+        "nombre": "Miguel Martínez",
+        "email": "miguel.martínez96@mail.com",
+        "telefono": "555-3590",
+        "direccion": {
+            "calle": "Calle Libertad 338",
+            "ciudad": "Ciudad de México",
+            "pais": "Perú",
+            "codigo_postal": "14190"
+        }
+    },
+    {
+        "id_cliente": 97,
+        "nombre": "Sofía García",
+        "email": "sofía.garcía97@mail.com",
+        "telefono": "555-5869",
+        "direccion": {
+            "calle": "Calle Falsa 656",
+            "ciudad": "Ciudad de México",
+            "pais": "Colombia",
+            "codigo_postal": "81245"
+        }
+    },
+    {
+        "id_cliente": 98,
+        "nombre": "Juan Martínez",
+        "email": "juan.martínez98@mail.com",
+        "telefono": "555-7526",
+        "direccion": {
+            "calle": "Calle Los Almendros 332",
+            "ciudad": "Buenos Aires",
+            "pais": "Chile",
+            "codigo_postal": "23661"
+        }
+    },
+    {
+        "id_cliente": 99,
+        "nombre": "Luis López",
+        "email": "luis.lópez99@mail.com",
+        "telefono": "555-9919",
+        "direccion": {
+            "calle": "Calle Los Almendros 108",
+            "ciudad": "Lima",
+            "pais": "México",
+            "codigo_postal": "13336"
+        }
+    },
+    {
+        "id_cliente": 100,
+        "nombre": "Elena Pérez",
+        "email": "elena.pérez100@mail.com",
+        "telefono": "555-8557",
+        "direccion": {
+            "calle": "Calle Falsa 106",
+            "ciudad": "Bogotá",
+            "pais": "Perú",
+            "codigo_postal": "11314"
+        }
+    }
+]
